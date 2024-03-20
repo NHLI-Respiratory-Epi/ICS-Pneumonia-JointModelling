@@ -1,0 +1,83 @@
+prodcodeid,dmdid,termfromemis,productname,formulation,routeofadministration,drugsubstancename,substancestrength,bnfchapter,drugissues,jkq
+"48141000033117","","aminophylline injection 25 mg/1 ml","","","","","","",400,0
+"48241000033112","","aminophylline injection 250 mg/1 ml","","","","","","",100,0
+"49741000033110","35900511000001104","aminophylline 250mg/10ml solution for injection ampoules","Aminophylline 250mg/10ml solution for injection ampoules","Solution for injection","Intramuscular/ Intravenous","Aminophylline","25.000mg/1.000ml","3010300",800,0
+"51841000033118","13663211000001104","aminophylline hydrate 225mg modified-release tablets","Aminophylline hydrate 225mg modified-release tablets","Modified-release tablet","Oral","Aminophylline hydrate","225.000mg","3010300",300000,1
+"53241000033116","","aminophylline paediatric tablets 100 mg","","","","","","",3000,1
+"54341000033112","3291311000001106","amnivent-225 sr tablets (ashbourne pharmaceuticals ltd)","Amnivent-225 SR tablets","Modified-release tablet","Oral","Aminophylline","225.000mg","",7000,1
+"54441000033118","","amnivent 350 sr tablets 350 mg","","","","","","",50,1
+"54541000033117","","aminophylline suppositories 100 mg","","","","","","",60,0
+"54641000033116","","aminophylline suppositories 150 mg","","","","","","",30,0
+"54741000033113","","aminophylline suppositories 180 mg","","","","","","",20,0
+"54841000033115","","aminophylline suppositories 360 mg","","","","","","",1000,0
+"54941000033111","","aminophylline suppositories 50 mg","","","","","","",20,0
+"57441000033114","320357005","aminophylline 100mg tablets","Aminophylline 100mg tablets","Tablet","Oral","Aminophylline","100.000mg","3010300",9000,1
+"57541000033110","","aminophylline tablets 225 mg","","","","","","",70000,1
+"59941000033110","14608611000001106","aminophylline hydrate 350mg modified-release tablets","Aminophylline hydrate 350mg modified-release tablets","Modified-release tablet","Oral","Aminophylline hydrate","350.000mg","3010300",30000,1
+"61441000033113","35900411000001103","aminophylline 225mg modified-release tablets","Aminophylline 225mg modified-release tablets","Modified-release tablet","Oral","Aminophylline","225.000mg","",800000,1
+"147941000033113","","biophylline capsules 350 mg","","","","","","",80,1
+"148041000033111","","biophylline capsules 500 mg","","","","","","",40,1
+"151141000033115","","biophylline syrup 125 mg/5 ml","","","","","","",400,1
+"247341000033111","","choledyl syrup 62.5 mg/5 ml","","","","","","",3000,0
+"247441000033117","","choline theophyllinate syrup 62.5 mg/5 ml","","","","","","",300,0
+"248241000033117","","choline theophyllinate tablets 424 mg","","","","","","",40,0
+"249641000033111","","choledyl tablets 100 mg","","","","","","",1000,0
+"249741000033119","","choledyl tablets 200 mg","","","","","","",6000,0
+"249841000033112","","choline theophyllinate tablets 100 mg","","","","","","",100,0
+"249941000033116","","choline theophyllinate tablets 200 mg","","","","","","",1000,0
+"615341000033114","3715711000001101","franol tablets (sanofi)","Franol tablets","Tablet","Oral","Ephedrine hydrochloride/ Theophylline","11.000mg + 120.000mg","3090200",30000,0
+"615441000033115","3844211000001102","franol plus tablets (sanofi)","Franol Plus tablets","Tablet","Oral","Ephedrine sulfate/ Theophylline","15.000mg + 120.000mg","3090200",20000,0
+"816741000033113","","lasma tablets 300 mg","","","","","","",1000,0
+"992241000033110","436811000001108","nuelin 60mg/5ml liquid (3m health care ltd)","Nuelin 60mg/5ml liquid","Oral solution","Oral","Theophylline sodium glycinate","12.000mg/1.000ml","",20000,1
+"993541000033118","468311000001108","nuelin 125mg tablets (3m health care ltd)","Nuelin 125mg tablets","Tablet","Oral","Theophylline","125.000mg","",20000,1
+"993641000033117","184211000001107","nuelin sa 175mg tablets (mylan)","Nuelin SA 175mg tablets","Modified-release tablet","Oral","Theophylline","175.000mg","3010300",200000,1
+"993941000033112","456911000001102","nuelin sa 250 tablets (mylan)","Nuelin SA 250 tablets","Modified-release tablet","Oral","Theophylline","250.000mg","3010300",100000,1
+"1067641000033116","","pecram m/r tablets 225 mg","","","","","","",80,0
+"1076441000033111","515811000001101","phyllocontin paediatric continus 100mg tablets (napp pharmaceuticals ltd)","Phyllocontin Paediatric Continus 100mg tablets","Modified-release tablet","Oral","Aminophylline hydrate","100.000mg","",10000,1
+"1080341000033111","3287411000001108","phyllocontin continus 225mg tablets (napp pharmaceuticals ltd)","Phyllocontin Continus 225mg tablets","Modified-release tablet","Oral","Aminophylline hydrate","225.000mg","3010300",2000000,1
+"1080441000033117","550511000001101","phyllocontin forte continus 350mg tablets (napp pharmaceuticals ltd)","Phyllocontin Forte Continus 350mg tablets","Modified-release tablet","Oral","Aminophylline hydrate","350.000mg","3010300",60000,1
+"1106141000033119","14611911000001106","podophyllin compound paint","Podophyllin compound paint","Paint","Cutaneous","Podophyllum resin","150.000mg/1.000ml","13070000",10000,10
+"1111341000033112","","pro-vent capsules 300 mg","","","","","","",3000,0
+"1258941000033112","","sabidal sr 270 tablets 424 mg","","","","","","",1000,0
+"1346041000033119","176011000001103","slo-phyllin 125mg capsules (merck serono ltd)","Slo-Phyllin 125mg capsules","Modified-release capsule","Oral","Theophylline","125.000mg","3010300",100000,1
+"1346141000033115","543711000001100","slo-phyllin 250mg capsules (merck serono ltd)","Slo-Phyllin 250mg capsules","Modified-release capsule","Oral","Theophylline","250.000mg","3010300",400000,1
+"1346241000033110","792111000001103","slo-phyllin 60mg capsules (merck serono ltd)","Slo-Phyllin 60mg capsules","Modified-release capsule","Oral","Theophylline","60.000mg","3010300",50000,1
+"1429541000033111","35957711000001104","theophylline 125mg modified-release capsules","Theophylline 125mg modified-release capsules","Modified-release capsule","Oral","Theophylline","125.000mg","3010300",40000,1
+"1429641000033112","35917911000001105","theophylline 250mg modified-release capsules","Theophylline 250mg modified-release capsules","Modified-release capsule","Oral","Theophylline","250.000mg","3010300",100000,1
+"1429741000033115","35918211000001102","theophylline 60mg modified-release capsules","Theophylline 60mg modified-release capsules","Modified-release capsule","Oral","Theophylline","60.000mg","3010300",20000,1
+"1429841000033113","","theophylline capsules 300 mg","","","","","","",700,1
+"1429941000033117","","theophylline s/r capsules 300 mg","","","","","","",3000,1
+"1431441000033113","320415003","theophylline 60mg/5ml oral solution","Theophylline 60mg/5ml oral solution","Oral solution","Oral","Theophylline sodium glycinate","12.000mg/1.000ml","",10000,1
+"1431741000033118","","theophylline paediatric tablets 200 mg","","","","","","",1000,1
+"1432641000033115","","theophylline hydrate syrup 125 mg/5 ml","","","","","","",400,1
+"1432941000033110","35917711000001108","theophylline 200mg modified-release tablets","Theophylline 200mg modified-release tablets","Modified-release tablet","Oral","Theophylline","200.000mg","3010300",200000,1
+"1433041000033117","296711000001107","theo-dur 200mg tablets (astrazeneca uk ltd)","Theo-Dur 200mg tablets","Modified-release tablet","Oral","Theophylline","200.000mg","",10000,1
+"1433141000033118","727211000001102","theo-dur 300mg tablets (astrazeneca uk ltd)","Theo-Dur 300mg tablets","Modified-release tablet","","Theophylline","300.000mg","",10000,1
+"1433241000033113","","theodrox tablets","","","","","","",100,1
+"1433341000033115","","theograd tablets 350 mg","","","","","","",30,1
+"1433441000033114","","theophylline tablets 120 mg","","","","","","",80,1
+"1433541000033110","35917611000001104","theophylline 175mg modified-release tablets","Theophylline 175mg modified-release tablets","Modified-release tablet","Oral","Theophylline","175.000mg","3010300",80000,1
+"1434741000033116","320414004","theophylline 125mg tablets","Theophylline 125mg tablets","Tablet","Oral","Theophylline","125.000mg","",8000,1
+"1434841000033114","","theophylline tablets 200 mg","","","","","","",5000,1
+"1434941000033118","","theophylline tablets 300 mg","","","","","","",2000,1
+"1435041000033118","","theophylline tablets 350 mg","","","","","","",100,1
+"1435141000033119","","theophylline tablets 400 mg","","","","","","",4000,1
+"1435541000033111","","theophylline tablets 250 mg","","","","","","",6000,1
+"1436041000033110","35918111000001108","theophylline 400mg modified-release tablets","Theophylline 400mg modified-release tablets","Modified-release tablet","Oral","Theophylline","400.000mg","3010300",80000,1
+"1436141000033114","35918011000001107","theophylline 300mg modified-release tablets","Theophylline 300mg modified-release tablets","Modified-release tablet","Oral","Theophylline","300.000mg","3010300",70000,1
+"1436641000033116","","theophylline s/r tablets 500 mg","","","","","","",100,1
+"1489341000033112","454311000001109","uniphyllin continus 200mg tablets (napp pharmaceuticals ltd)","Uniphyllin Continus 200mg tablets","Modified-release tablet","Oral","Theophylline","200.000mg","3010300",1000000,1
+"1490441000033110","2891811000001100","uniphyllin continus 300mg tablets (napp pharmaceuticals ltd)","Uniphyllin Continus 300mg tablets","Modified-release tablet","Oral","Theophylline","300.000mg","3010300",400000,1
+"1490641000033112","2892211000001108","uniphyllin continus 400mg tablets (napp pharmaceuticals ltd)","Uniphyllin Continus 400mg tablets","Modified-release tablet","Oral","Theophylline","400.000mg","3010300",600000,1
+"1580241000033115","","c1-inhibitor tim3 injection 1000 plasma units/vial","","","","","","",300,0
+"1580341000033113","","c1-inhibitor tim3 injection 500 plasma units/vial","","","","","","",90,0
+"1830241000033110","35917811000001100","theophylline 250mg modified-release tablets","Theophylline 250mg modified-release tablets","Modified-release tablet","Oral","Theophylline","250.000mg","3010300",30000,1
+"2105141000033110","3292211000001105","norphyllin sr 225mg tablets (teva uk ltd)","Norphyllin SR 225mg tablets","Modified-release tablet","Oral","Aminophylline","225.000mg","",5000,1
+"2609841000033118","","*podophyllin tablets","","","","","","",9,0
+"2609941000033114","","*podophyllin pills (sucrose)","","","","","","",2,0
+"2610141000033119","","*podophyllin granules","","","","","","",1,0
+"4576241000033117","5240411000001105","podophyllin paint","Podophyllin paint","Paint","Cutaneous","Podophyllum resin","","",700,0
+"9203041000033115","24595311000001101","theophylline 50mg/5ml oral solution","Theophylline 50mg/5ml oral solution","Oral solution","Oral","Theophylline","10.000mg/1.000ml","",300,1
+"11659341000033119","7568911000001102","plasma-lyte 148 infusion 1litre viaflo bags (baxter healthcare ltd)","Plasma-Lyte 148 infusion 1litre Viaflo bags","Infusion","Intravenous","Magnesium chloride hexahydrate/ Potassium chloride/ Sodium acetate trihydrate/ Sodium chloride/ Sodium gluconate","300.000mg/1.000litre + 370.000mg/1.000litre + 3.680gram/1.000litre + 5.260gram/1.000litre + 5.020gram/1.000litre","9030000",6,0
+"11659441000033113","32745511000001108","plasma-lyte 148 infusion 500ml viaflo bags (baxter healthcare ltd)","Plasma-Lyte 148 infusion 500ml Viaflo bags","Infusion","Intravenous","Magnesium chloride hexahydrate/ Potassium chloride/ Sodium acetate trihydrate/ Sodium chloride/ Sodium gluconate","300.000mg/1.000litre + 370.000mg/1.000litre + 3.680gram/1.000litre + 5.260gram/1.000litre + 5.020gram/1.000litre","",2,0
+"12468241000033113","35101211000001105","theophylline 50mg/5ml oral suspension","Theophylline 50mg/5ml oral suspension","Oral suspension","Oral","Theophylline","10.000mg/1.000ml","",40,1

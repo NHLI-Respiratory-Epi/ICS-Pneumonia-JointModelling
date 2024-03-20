@@ -1,0 +1,82 @@
+medcodeid,snomedctdescriptionid,snomedctconceptid,originalreadcode,cleansedreadcode,observations,term,emiscodecategoryid,aecopd_breathlessness,copd_chronic_breathlessness
+2002191000006110,2.66701E+15,1.06099E+15,EMISNQMR1,,30,MRC (Medical Research Council) Breathlessness Scale grade 5a,Symptoms and Findings,0,1
+2002201000006110,2.66703E+15,1.061E+15,EMISNQMR2,,10,MRC (Medical Research Council) Breathlessness Scale grade 5b,Symptoms and Findings,0,1
+2730821000000110,2.73082E+15,1.08998E+15,^ESCT1171834,,1,eMRC (extended Medical Research Council) dyspnoea scale grade 2,Symptoms and Findings,0,1
+2730841000000110,2.73084E+15,1.08999E+15,^ESCT1171835,,2,eMRC (extended Medical Research Council) dyspnoea scale grade 3,Symptoms and Findings,0,1
+2730861000000110,2.73086E+15,1.09E+15,^ESCT1171836,,2,eMRC (extended Medical Research Council) dyspnoea scale grade 5a,Symptoms and Findings,0,1
+2730881000000110,2.73088E+15,1.09001E+15,^ESCT1171837,,3,eMRC (extended Medical Research Council) dyspnoea scale grade 4,Symptoms and Findings,0,1
+12117611000006100,2.75229E+15,1.09938E+15,^ESCT1211761,,50,mMRC (modified Medical Research Council) dyspnoea scale grade 1,Symptoms and Findings,0,1
+12117621000006100,2.75231E+15,1.09939E+15,^ESCT1211762,,60,mMRC (modified Medical Research Council) dyspnoea scale grade 2,Symptoms and Findings,0,1
+12117631000006100,2.75233E+15,1.0994E+15,^ESCT1211763,,90,mMRC (modified Medical Research Council) dyspnoea scale grade 3,Symptoms and Findings,0,1
+12117641000006100,2.75235E+15,1.09941E+15,^ESCT1211764,,20,mMRC (modified Medical Research Council) dyspnoea scale grade 4,Symptoms and Findings,0,1
+252385016,252385016,161939006,1732,1732,600000,Breathless - moderate exertion,Symptoms and Findings,0,1
+252386015,252386015,161940008,1733,1733,500000,Breathless - mild exertion,Symptoms and Findings,0,1
+252387012,252387012,161941007,1734,1734,60000,Breathless - at rest,Symptoms and Findings,0,1
+4545441000006110,252388019,161941007,^ESCTSO454544,,900,SOBAR - Shortness of breath at rest,Symptoms and Findings,0,1
+4545421000006110,252389010,161941007,^ESCTDY454542,,8000,Dyspnoea at rest,Symptoms and Findings,1,1
+253889014,253889014,162890008,2322,2322,30000,O/E - dyspnoea,Symptoms and Findings,1,0
+253892013,253892013,162892000,2324,2324,9000,O/E - respiratory distress,Symptoms and Findings,1,0
+1807841000006110,1.80784E+15,1.80784E+15,EMISNQOE22,,200,O/E - dyspnoea at rest,Symptoms and Findings,1,0
+1807851000006110,1.80785E+15,1.80785E+15,EMISNQOE23,,500,O/E - dyspnoea on exertion,Symptoms and Findings,0,1
+1970561000006110,1.97056E+15,1.97056E+15,EMISNQCO271,,20000,COPD assessment test score - breathless walking up hill/stairs,Diagnostics,0,1
+344917018,344917018,230145002,1738,1738,400000,Difficulty breathing,Symptoms and Findings,1,1
+5004081000006110,344919015,230145002,^ESCTDI500408,,200,DIB - Difficulty in breathing,Symptoms and Findings,1,0
+371012016,371012016,248548009,173D,173D.00,8000,Nocturnal dyspnoea,Symptoms and Findings,0,1
+5497731000006110,397885013,267036007,^ESCTDY549773,,20,Dyspnea,Symptoms and Findings,0,1
+525741000006111,397886014,267036007,173-1,173..11,200000,Breathlessness symptom,Symptoms and Findings,1,1
+633381000006111,397886014,267036007,173-2,173..12,100000,Dyspnoea - symptom,Symptoms and Findings,1,1
+140461000006116,397886014,267036007,173-3,173..13,2000000,Dyspnoea,Symptoms and Findings,0,1
+317395018,397886014,267036007,R060A,R060A00,200000,[D]Dyspnoea,Symptoms and Findings,1,0
+5497741000006110,397887017,267036007,^ESCTBR549774,,200,Breathless,Symptoms and Findings,1,0
+397888010,397888010,267036007,173,173..00,1000000,Breathlessness,Symptoms and Findings,1,1
+252412011,397888010,267036007,173Z,173Z.00,40000,Breathlessness NOS,Symptoms and Findings,1,1
+451467013,397888010,267036007,R060D,R060D00,70000,[D]Breathlessness,Symptoms and Findings,1,0
+5497761000006110,397889019,267036007,^ESCTSO549776,,200,SOB - Shortness of breath,Symptoms and Findings,1,1
+397890011,397890011,267036007,1739,1739,800000,Shortness of breath,Symptoms and Findings,0,1
+317392015,397890011,267036007,R0608,R060800,400000,[D]Shortness of breath,Symptoms and Findings,1,0
+5529941000006110,1490286012,271823003,^ESCTTA552994,,6,Tachypnoeic,"Conditions, operations and procedures",1,0
+5529951000006110,1490518017,271823003,^ESCTTA552995,,2,Tachypneic,"Conditions, operations and procedures",1,0
+11905791000006100,406796019,271823003,^ESCT1190579,,3,Tachypnea,"Conditions, operations and procedures",1,0
+5529931000006110,406798018,271823003,^ESCTRA552993,,60,Rapid breathing,"Conditions, operations and procedures",1,0
+317386014,406799014,271823003,R0603,R060300,8000,Tachypnoea,"Conditions, operations and procedures",1,0
+317390011,406803010,271825005,R0606,R060600,10000,Respiratory distress,"Conditions, operations and procedures",1,0
+5530001000006110,406804016,271825005,^ESCTDI553000,,10,Distressed breathing,"Conditions, operations and procedures",1,0
+1484903015,1484903015,390870001,173F,173F.00,1000,Short of breath dressing/undressing,Symptoms and Findings,0,1
+1484904014,1484904014,390871002,173G,173G.00,80000,Breathless - strenuous exertion,Symptoms and Findings,0,1
+1485147016,1485147016,391123006,173I,173I.00,1000000,MRC Breathlessness Scale: grade 2,Symptoms and Findings,0,1
+13821611000006100,3701319012,391123006,^ESCT1382161,,6000,Medical Research Council Dyspnoea scale grade 2,Symptoms and Findings,0,1
+1485148014,1485148014,391124000,173J,173J.00,1000000,MRC Breathlessness Scale: grade 3,Symptoms and Findings,0,1
+13821631000006100,2621395014,391124000,^ESCT1382163,,1,Medical Research Council (MRC) Breathlessness Scale: grade 3,Symptoms and Findings,0,1
+13821621000006100,3701321019,391124000,^ESCT1382162,,4000,Medical Research Council Dyspnoea scale grade 3,Symptoms and Findings,0,1
+1485149018,1485149018,391125004,173K,173K.00,500000,MRC Breathlessness Scale: grade 4,Symptoms and Findings,0,1
+13821641000006100,3701323016,391125004,^ESCT1382164,,3000,Medical Research Council Dyspnoea scale grade 4,Symptoms and Findings,0,1
+1485150018,1485150018,391126003,173L,173L.00,100000,MRC Breathlessness Scale: grade 5,Symptoms and Findings,0,1
+13821651000006100,3701325011,391126003,^ESCT1382165,,900,Medical Research Council Dyspnoea scale grade 5,Symptoms and Findings,0,1
+1780470010,1780470010,401281000,173R,173R.00,3000,Borg Breathlessness Score: 3 moderate,Symptoms and Findings,0,1
+1780471014,1780471014,401282007,173S,173S.00,900,Borg Breathlessness Score: 4 somewhat severe,Symptoms and Findings,0,1
+1780473012,1780473012,401284008,173T,173T.00,600,Borg Breathlessness Score: 5 severe,Symptoms and Findings,0,1
+1780475017,1780475017,401286005,173V,173V.00,200,Borg Breathlessness Score: 6 severe (+),Symptoms and Findings,0,1
+1780479011,1780479011,401290007,173W,173W.00,300,Borg Breathlessness Score: 7 very severe,Symptoms and Findings,0,1
+1780480014,1780480014,401291006,173X,173X.00,100,Borg Breathlessness Score: 8 very severe (+),Symptoms and Findings,0,1
+911011000006110,1780481013,401292004,173Y,173Y.00,50,"Borg Breathlessness Score: 9 very, very severe (almost maximal)",Symptoms and Findings,0,1
+1780482018,1780482018,401293009,173a,173a.00,80,Borg Breathlessness Score: 10 maximal,Symptoms and Findings,0,1
+2159189012,2159189012,407588003,173b,173b.00,2000,Unable to complete a sentence in one breath,Symptoms and Findings,1,1
+198599018,198599018,55442000,1736,1736,30000,Paroxysmal nocturnal dyspnoea,Symptoms and Findings,0,1
+3488341000006110,101102017,60845006,^ESCTEX348834,,7,Exertional dyspnea,Symptoms and Findings,0,1
+3488371000006110,101105015,60845006,^ESCTDY348837,,1,Dyspnoea on effort,Symptoms and Findings,0,1
+1232138017,1232138017,60845006,173C,173C.00,100000,Short of breath on exertion,Symptoms and Findings,0,1
+3488411000006110,1232139013,60845006,^ESCTSO348841,,4000,SOBOE - Shortness of breath on exertion,Symptoms and Findings,0,1
+3488381000006110,199001013,60845006,^ESCTEX348838,,30,Exertional dyspnoea,Symptoms and Findings,0,1
+498862013,498862013,60845006,173C-1,173C.11,100000,Dyspnoea on exertion,Symptoms and Findings,0,1
+910901000006116,498862013,60845006,173C-2,173C.12,300000,SOBOE,Symptoms and Findings,1,1
+11905591000006100,104280017,62744007,^ESCT1190559,,2,Orthopnea,Symptoms and Findings,0,1
+41791000006118,104281018,62744007,1735-1,1735.11,10000,Orthopnoea,Symptoms and Findings,0,1
+525691000006114,1232389014,62744007,1735,1735,20000,Breathlessness lying flat,Symptoms and Findings,0,1
+3572371000006110,500262012,65949001,^ESCTIN357237,,30,Increased breath sounds,Unset,0,
+2287881000000110,2.39017E+15,702581006,173g,173g.00,30,Breathlessness causing difficulty eating,Symptoms and Findings,0,1
+2379631000000110,3292644018,713661000,173h,173h.00,100000,Able to complete sentence in one breath,Symptoms and Findings,1,0
+3792111000006110,131814014,79451004,^ESCTBR379211,,4,Bronchial breathing,Unset,1,0
+12371301000006100,2.75258E+15,8.59231E+14,^ESCT1237130,,10,MRC (Medical Research Council) dyspnoea scale,Unset,0,1
+961761000006112,9.61761E+14,9.61761E+14,EMISCAB17,,900,Abnormal breathing patterns,Symptoms and Findings,1,0
+961841000006118,9.61841E+14,9.61841E+14,EMISCAB19,,70,Abnormal breath sounds,Symptoms and Findings,1,0
+982351000006118,9.82351E+14,9.82351E+14,EMISCDY2,,700,Dyspnoea,Symptoms and Findings,1,0

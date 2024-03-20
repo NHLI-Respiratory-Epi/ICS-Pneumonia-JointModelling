@@ -1,0 +1,238 @@
+"prodcodeid","dmdid","Termfromemis","Productname","Routeofadministration","Drugsubstancename","Substancestrength","bnfcode","BNFChapter","DrugIssues","present","JKQ"
+"13300741000033118","324181004","erythromycin stearate 500mg tablets","erythromycin stearate 500mg tablets","oral","erythromycin stearate","500.000mg","0501050N0AAABAB","5010500",4000,"in both",1
+"1553141000033111","85911000001108","zithromax 250mg capsules (pfizer ltd)","zithromax 250mg capsules","oral","azithromycin dihydrate","250.000mg","0501050A0BBAAAA","5010500",30000,"in both",1
+"1556241000033110","3253511000001109","zinnat suspension 125mg granules sachets (glaxosmithkline uk ltd)","zinnat suspension 125mg granules sachets","oral","cefuroxime axetil","125.000mg","0501021K0BBADAD",NA,100,"in both",1
+"1557041000033117","238811000001105","zinnat 125mg/5ml oral suspension (glaxosmithkline uk ltd)","zinnat 125mg/5ml oral suspension","oral","cefuroxime axetil","25.000mg/1.000ml","0501021K0BBACAC","5010201",3000,"in both",1
+"1557141000033118","650911000001103","zithromax 200mg/5ml oral suspension (pfizer ltd)","zithromax 200mg/5ml oral suspension","oral","azithromycin","40.000mg/1.000ml","0501050A0BBABAB","5010500",20000,"in both",1
+"1557341000033115","211911000001100","zinnat 250mg tablets (glaxosmithkline uk ltd)","zinnat 250mg tablets","oral","cefuroxime axetil","250.000mg","0501021K0BBABAB","5010201",40000,"in both",1
+"1558241000033114","228011000001102","zinnat 125mg tablets (glaxosmithkline uk ltd)","zinnat 125mg tablets","oral","cefuroxime axetil","125.000mg","0501021K0BBAAAA","5010201",3000,"in both",1
+"1572841000033112","39733511000001103","azithromycin 500mg tablets","azithromycin 500mg tablets","oral","azithromycin","500.000mg","0501050A0AAADAD",NA,5e+05,"in both",1
+"1582841000033117","3492511000001109","ciproxin 250mg/5ml oral suspension (bayer plc)","ciproxin 250mg/5ml oral suspension","oral","ciprofloxacin","50.000mg/1.000ml","0501120L0BBAJBG","5011200",5000,"in both",1
+"1582941000033113","324602005","ciprofloxacin 250mg/5ml oral suspension","ciprofloxacin 250mg/5ml oral suspension","oral","ciprofloxacin","50.000mg/1.000ml","0501120L0AABGBG","5011200",80000,"in both",1
+"1594141000033117","39732511000001105","co-amoxiclav 875mg/125mg tablets","co-amoxiclav 875mg/125mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","875.000mg + 125.000mg","0501013K0AAANAN",NA,100,"in both",1
+"1603241000033119","324070004","doxycycline 50mg capsules","doxycycline 50mg capsules","oral","doxycycline hyclate","50.000mg","0501030I0AAAAAA","5010300",5e+05,"in both",1
+"1626241000033115","39697411000001109","levofloxacin 250mg tablets","levofloxacin 250mg tablets","oral","levofloxacin hemihydrate","250.000mg","0501120X0AAABAB","5011200",30000,"in both",1
+"1626341000033113","324634001","levofloxacin 500mg tablets","levofloxacin 500mg tablets","oral","levofloxacin hemihydrate","500.000mg","0501120X0AAAAAA","5011200",90000,"in both",1
+"1698741000033115","3077511000001109","tavanic 250mg tablets (sanofi)","tavanic 250mg tablets","oral","levofloxacin hemihydrate","250.000mg","0501120X0BBABAB","5011200",2000,"in both",1
+"1698841000033113","3078311000001102","tavanic 500mg tablets (sanofi)","tavanic 500mg tablets","oral","levofloxacin hemihydrate","500.000mg","0501120X0BBAAAA","5011200",4000,"in both",1
+"1713741000033116","794511000001102","zithromax 500mg tablets (pfizer ltd)","zithromax 500mg tablets","oral","azithromycin","500.000mg","0501050A0BBADAD",NA,3000,"in both",1
+"1830541000033112","37083211000001101","clarithromycin 250mg/5ml oral suspension","clarithromycin 250mg/5ml oral suspension","oral","clarithromycin","50.000mg/1.000ml","0501050B0AAAHAH","5010500",3e+05,"in both",1
+"1830641000033113","211000001101","klaricid paediatric 250mg/5ml oral suspension (mylan)","klaricid paediatric 250mg/5ml oral suspension","oral","clarithromycin","50.000mg/1.000ml","0501050B0BBAHAH","5010500",3000,"in both",1
+"1924941000033118","324178009","erythromycin 250mg gastro-resistant tablets","erythromycin 250mg gastro-resistant tablets","oral","erythromycin","250.000mg","0501050C0AAABAB","5010500",5e+06,"in both",1
+"219741000033111","39735111000001108","cefaclor 500mg capsules","cefaclor 500mg capsules","oral","cefaclor monohydrate","500.000mg","0501021A0AAAEAE","5010201",80000,"in both",1
+"220441000033115","39735011000001107","cefaclor 250mg capsules","cefaclor 250mg capsules","oral","cefaclor monohydrate","250.000mg","0501021A0AAAAAA","5010201",2e+05,"in both",1
+"227741000033114","36134211000001100","cefaclor 375mg modified-release tablets","cefaclor 375mg modified-release tablets","oral","cefaclor monohydrate","375.000mg","0501021A0AAAGAG","5010201",8e+05,"in both",1
+"228941000033111","323874002","cefuroxime 125mg granules sachets","cefuroxime 125mg granules sachets","oral","cefuroxime axetil","125.000mg","0501021K0AAADAD",NA,200,"in both",1
+"230141000033113","323872003","cefuroxime 125mg/5ml oral suspension","cefuroxime 125mg/5ml oral suspension","oral","cefuroxime axetil","25.000mg/1.000ml","0501021K0AAACAC","5010201",20000,"in both",1
+"230741000033112","36134011000001105","cefaclor 125mg/5ml oral suspension sugar free","cefaclor 125mg/5ml oral suspension sugar free","oral","cefaclor monohydrate","25.000mg/1.000ml","0501021A0AAAJAJ","5010201",90000,"in both",1
+"230841000033119","36134111000001106","cefaclor 250mg/5ml oral suspension sugar free","cefaclor 250mg/5ml oral suspension sugar free","oral","cefaclor monohydrate","50.000mg/1.000ml","0501021A0AAAKAK","5010201",40000,"in both",1
+"230941000033110","323792004","cefaclor 125mg/5ml oral suspension","cefaclor 125mg/5ml oral suspension","oral","cefaclor monohydrate","25.000mg/1.000ml","0501021A0AAABAB","5010201",2e+05,"in both",1
+"231741000033119","323793009","cefaclor 250mg/5ml oral suspension","cefaclor 250mg/5ml oral suspension","oral","cefaclor monohydrate","50.000mg/1.000ml","0501021A0AAACAC","5010201",80000,"in both",1
+"233041000033118","39694611000001101","cefuroxime 250mg tablets","cefuroxime 250mg tablets","oral","cefuroxime axetil","250.000mg","0501021K0AAABAB","5010201",1e+05,"in both",1
+"235441000033111","39684511000001101","cefuroxime 125mg tablets","cefuroxime 125mg tablets","oral","cefuroxime axetil","125.000mg","0501021K0AAAAAA","5010201",7000,"in both",1
+"258741000033114","417611000001101","ciproxin 500mg tablets (bayer plc)","ciproxin 500mg tablets","oral","ciprofloxacin hydrochloride","500.000mg","0501120L0BBABAF","5011200",90000,"in both",1
+"258841000033116","39687811000001107","ciprofloxacin 500mg tablets","ciprofloxacin 500mg tablets","oral","ciprofloxacin hydrochloride","500.000mg","0501120L0AAAFAF","5011200",3e+06,"in both",1
+"258941000033112","661311000001104","ciproxin 750mg tablets (bayer plc)","ciproxin 750mg tablets","oral","ciprofloxacin hydrochloride","750.000mg","0501120L0BBADAJ","5011200",3000,"in both",1
+"259041000033115","39687011000001101","ciprofloxacin 750mg tablets","ciprofloxacin 750mg tablets","oral","ciprofloxacin hydrochloride","750.000mg","0501120L0AAAJAJ","5011200",80000,"in both",1
+"259341000033118","39686211000001109","ciprofloxacin 100mg tablets","ciprofloxacin 100mg tablets","oral","ciprofloxacin hydrochloride","100.000mg","0501120L0AAAGAG","5011200",40000,"in both",1
+"259441000033112","162511000001103","ciproxin 100mg tablets (bayer plc)","ciproxin 100mg tablets","oral","ciprofloxacin hydrochloride","100.000mg","0501120L0BBACAG","5011200",3000,"in both",1
+"259641000033114","455911000001109","ciproxin 250mg tablets (bayer plc)","ciproxin 250mg tablets","oral","ciprofloxacin hydrochloride","250.000mg","0501120L0BBAAAA","5011200",2e+05,"in both",1
+"260241000033112","39687511000001109","ciprofloxacin 250mg tablets","ciprofloxacin 250mg tablets","oral","ciprofloxacin hydrochloride","250.000mg","0501120L0AAAAAA","5011200",2e+06,"in both",1
+"277841000033115","36142611000001107","clarithromycin 500mg modified-release tablets","clarithromycin 500mg modified-release tablets","oral","clarithromycin","500.000mg","0501050B0AAAEAE","5010500",4e+05,"in both",1
+"278241000033118","35368711000001104","clarithromycin 125mg/5ml oral suspension","clarithromycin 125mg/5ml oral suspension","oral","clarithromycin","25.000mg/1.000ml","0501050B0AAABAB","5010500",6e+05,"in both",1
+"282141000033118","324248006","clarithromycin 250mg granules sachets","clarithromycin 250mg granules sachets","oral","clarithromycin","250.000mg","0501050B0AAAFAF","5010500",10000,"in both",1
+"285341000033110","324244008","clarithromycin 500mg tablets","clarithromycin 500mg tablets","oral","clarithromycin","500.000mg","0501050B0AAADAD","5010500",5e+06,"in both",1
+"287441000033111","324238009","clarithromycin 250mg tablets","clarithromycin 250mg tablets","oral","clarithromycin","250.000mg","0501050B0AAAAAA","5010500",2e+06,"in both",1
+"2890241000033119","408015000","moxifloxacin 400mg tablets","moxifloxacin 400mg tablets","oral","moxifloxacin hydrochloride","400.000mg","0501120Y0AAAAAA","5011200",40000,"in both",1
+"2890341000033112","4360711000001109","avelox 400mg tablets (bayer plc)","avelox 400mg tablets","oral","moxifloxacin hydrochloride","400.000mg","0501120Y0BBAAAA","5011200",1000,"in both",1
+"3079141000033118","39732311000001104","amoxicillin 250mg capsules","amoxicillin 250mg capsules","oral","amoxicillin trihydrate","250.000mg","0501013B0AAAAAA","5010103",2e+07,"in both",1
+"3079241000033113","39732411000001106","amoxicillin 500mg capsules","amoxicillin 500mg capsules","oral","amoxicillin trihydrate","500.000mg","0501013B0AAABAB","5010103",3e+07,"in both",1
+"3079641000033111","323732002","amoxicillin 125mg/5ml oral suspension","amoxicillin 125mg/5ml oral suspension","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0AAAJAJ","5010103",6e+06,"in both",1
+"3079741000033119","323733007","amoxicillin 250mg/5ml oral suspension","amoxicillin 250mg/5ml oral suspension","oral","amoxicillin trihydrate","50.000mg/1.000ml","0501013B0AAAKAK","5010103",2e+06,"in both",1
+"3079841000033112","35368511000001109","amoxicillin 125mg/1.25ml oral suspension paediatric","amoxicillin 125mg/1.25ml oral suspension paediatric","oral","amoxicillin trihydrate","100.000mg/1.000ml","0501013B0AAAIAI","5010103",2e+05,"in both",1
+"3079941000033116","35902111000001107","amoxicillin 3g oral powder sachets sugar free","amoxicillin 3g oral powder sachets sugar free","oral","amoxicillin trihydrate","3.000gram","0501013B0AAAHAH","5010103",1e+05,"in both",1
+"3080041000033117","35901911000001104","amoxicillin 125mg/5ml oral suspension sugar free","amoxicillin 125mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0AAASAS","5010103",7e+06,"in both",1
+"3080141000033118","39021911000001105","amoxicillin 250mg/5ml oral suspension sugar free","amoxicillin 250mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate","50.000mg/1.000ml","0501013B0AAATAT","5010103",3e+06,"in both",1
+"3084041000033111","39735311000001105","cefalexin 250mg capsules","cefalexin 250mg capsules","oral","cefalexin","250.000mg","0501021L0AAAAAA","5010201",3e+06,"in both",1
+"3084141000033110","39694811000001102","cefalexin 500mg capsules","cefalexin 500mg capsules","oral","cefalexin","500.000mg","0501021L0AAABAB","5010201",3e+06,"in both",1
+"3084241000033115","39684111000001105","cefalexin 250mg tablets","cefalexin 250mg tablets","oral","cefalexin","250.000mg","0501021L0AAAGAG","5010201",6e+05,"in both",1
+"3084341000033113","39735911000001106","cefalexin 500mg tablets","cefalexin 500mg tablets","oral","cefalexin","500.000mg","0501021L0AAAHAH","5010201",6e+05,"in both",1
+"3084441000033119","323887008","cefalexin 125mg/5ml oral suspension","cefalexin 125mg/5ml oral suspension","oral","cefalexin","25.000mg/1.000ml","0501021L0AAACAC","5010201",7e+05,"in both",1
+"3084541000033118","323888003","cefalexin 250mg/5ml oral suspension","cefalexin 250mg/5ml oral suspension","oral","cefalexin","50.000mg/1.000ml","0501021L0AAADAD","5010201",5e+05,"in both",1
+"3084641000033117","36134311000001108","cefalexin 500mg/5ml oral suspension","cefalexin 500mg/5ml oral suspension","oral","cefalexin","100.000mg/1.000ml","0501021L0AAAEAE","5010201",40000,"in both",1
+"3084741000033114","323944009","cefradine 250mg capsules","cefradine 250mg capsules","oral","cefradine","250.000mg","0501021M0AAAAAA","5010201",5e+05,"in both",1
+"3084841000033116","323945005","cefradine 500mg capsules","cefradine 500mg capsules","oral","cefradine","500.000mg","0501021M0AAABAB","5010201",3e+05,"in both",1
+"3085141000033111","36134511000001102","cefradine 250mg/5ml oral solution","cefradine 250mg/5ml oral solution","oral","cefradine","50.000mg/1.000ml","0501021M0AAAFAF",NA,60000,"in both",1
+"3089341000033112","324059006","doxycycline 100mg capsules","doxycycline 100mg capsules","oral","doxycycline hyclate","100.000mg","0501030I0AAABAB","5010300",1e+07,"in both",1
+"3089441000033118","39710311000001106","doxycycline 100mg dispersible tablets sugar free","doxycycline 100mg dispersible tablets sugar free","oral","doxycycline monohydrate","100.000mg","0501030Z0AAABAB","5040100",1e+05,"in both",1
+"3089541000033117","408607002","doxycycline 20mg tablets","doxycycline 20mg tablets","oral","doxycycline hyclate","20.000mg","1203010U0AAABAB","12030100",3000,"in both",1
+"317741000033113","39021311000001109","co-amoxiclav 250mg/125mg dispersible tablets sugar free","co-amoxiclav 250mg/125mg dispersible tablets sugar free","oral","amoxicillin trihydrate/ potassium clavulanate","250.000mg + 125.000mg","0501013K0AAABAB","5010103",1e+05,"in both",1
+"366941000033113","36565811000001104","co-amoxiclav 125mg/31mg/5ml oral suspension sugar free","co-amoxiclav 125mg/31mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate/ potassium clavulanate","25.000mg/1.000ml + 6.250mg/1.000ml","0501013K0AAADAD","5010103",7e+05,"in both",1
+"367041000033114","37083611000001104","co-amoxiclav 250mg/62mg/5ml oral suspension sugar free","co-amoxiclav 250mg/62mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate/ potassium clavulanate","50.000mg/1.000ml + 12.500mg/1.000ml","0501013K0AAAGAG","5010103",5e+05,"in both",1
+"367541000033116","37083711000001108","co-amoxiclav 400mg/57mg/5ml oral suspension sugar free","co-amoxiclav 400mg/57mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate/ potassium clavulanate","80.000mg/1.000ml + 11.400mg/1.000ml","0501013K0AAAKAK","5010103",1e+05,"in both",1
+"370041000033115","39732111000001101","co-amoxiclav 250mg/125mg tablets","co-amoxiclav 250mg/125mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","250.000mg + 125.000mg","0501013K0AAAAAA","5010103",4e+06,"in both",1
+"370141000033116","39732211000001107","co-amoxiclav 500mg/125mg tablets","co-amoxiclav 500mg/125mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","500.000mg + 125.000mg","0501013K0AAAJAJ","5010103",4e+06,"in both",1
+"3838541000033117","9742311000001103","clarithromycin 125mg granules straws","clarithromycin 125mg granules straws","oral","clarithromycin","125.000mg","0501050B0AAAKAK","5010500",700,"in both",1
+"3838641000033116","9742411000001105","clarithromycin 187.5mg granules straws","clarithromycin 187.5mg granules straws","oral","clarithromycin","187.500mg","0501050B0AAALAL","5010500",400,"in both",1
+"3838741000033113","9742511000001109","clarithromycin 250mg granules straws","clarithromycin 250mg granules straws","oral","clarithromycin","250.000mg","0501050B0AAAMAM","5010500",500,"in both",1
+"3955441000033115","11034311000001100","azithromycin 250mg tablets","azithromycin 250mg tablets","oral","azithromycin","250.000mg","0501050A0AAAGAG",NA,8e+05,"in both",1
+"4373141000033119","4515811000001108","cefalexin 250mg/5ml oral suspension sugar free","cefalexin 250mg/5ml oral suspension sugar free","oral","cefalexin","50.000mg/1.000ml","0501021L0AAAPAP","5010200",20000,"in both",1
+"44041000033113","388611000001105","amoxil 250mg capsules (glaxosmithkline uk ltd)","amoxil 250mg capsules","oral","amoxicillin trihydrate","250.000mg","0501013B0BCAAAA","5010103",4e+05,"in both",1
+"44141000033112","709311000001106","amoxil 500mg capsules (glaxosmithkline uk ltd)","amoxil 500mg capsules","oral","amoxicillin trihydrate","500.000mg","0501013B0BCABAB","5010103",3e+05,"in both",1
+"5150141000033114","36564611000001104","doxycycline 40mg modified-release capsules","doxycycline 40mg modified-release capsules","oral","doxycycline monohydrate","40.000mg","0501030Z0AAAAAA","5010300",30000,"in both",1
+"52841000033110","389311000001106","amoxil 125mg/1.25ml paediatric oral suspension (glaxosmithkline uk ltd)","amoxil 125mg/1.25ml paediatric oral suspension","oral","amoxicillin trihydrate","100.000mg/1.000ml","0501013B0BCAGAI","5010103",80000,"in both",1
+"534241000033118","36064711000001106","erythromycin 250mg gastro-resistant capsules","erythromycin 250mg gastro-resistant capsules","oral","erythromycin","250.000mg","0501050C0AAAKAK","5010500",9e+05,"in both",1
+"536141000033119","294211000001105","erythroped pi sf 125mg/5ml oral suspension (advanz pharma)","erythroped pi sf 125mg/5ml oral suspension","oral","erythromycin ethyl succinate","25.000mg/1.000ml","0501050H0BDANAL","5010500",1e+05,"in both",1
+"536941000033117","324180003","erythromycin stearate 250mg tablets","erythromycin stearate 250mg tablets","oral","erythromycin stearate","250.000mg","0501050N0AAAAAA","5010500",2e+05,"in both",1
+"537241000033112","178911000001100","erythroped forte sf 500mg/5ml oral suspension (advanz pharma)","erythroped forte sf 500mg/5ml oral suspension","oral","erythromycin ethyl succinate","100.000mg/1.000ml","0501050H0BDAPAN","5010500",40000,"in both",1
+"537341000033119","108811000001104","erythroped sf 250mg/5ml oral suspension (advanz pharma)","erythroped sf 250mg/5ml oral suspension","oral","erythromycin ethyl succinate","50.000mg/1.000ml","0501050H0BDAMAM","5010500",1e+05,"in both",1
+"537441000033113","36564711000001108","erythromycin ethyl succinate 125mg/5ml oral suspension sugar free","erythromycin ethyl succinate 125mg/5ml oral suspension sugar free","oral","erythromycin ethyl succinate","25.000mg/1.000ml","0501050H0AAALAL","5010500",8e+05,"in both",1
+"537541000033114","39107311000001103","erythromycin ethyl succinate 250mg/5ml oral suspension sugar free","erythromycin ethyl succinate 250mg/5ml oral suspension sugar free","oral","erythromycin ethyl succinate","50.000mg/1.000ml","0501050H0AAAMAM","5010500",8e+05,"in both",1
+"537641000033110","324232005","erythromycin ethyl succinate 125mg/5ml oral suspension","erythromycin ethyl succinate 125mg/5ml oral suspension","oral","erythromycin ethyl succinate","25.000mg/1.000ml","0501050H0AAAAAA","5010500",6e+05,"in both",1
+"537741000033118","324233000","erythromycin ethyl succinate 250mg/5ml oral suspension","erythromycin ethyl succinate 250mg/5ml oral suspension","oral","erythromycin ethyl succinate","50.000mg/1.000ml","0501050H0AAABAB","5010500",4e+05,"in both",1
+"537841000033111","324234006","erythromycin ethyl succinate 500mg/5ml oral suspension","erythromycin ethyl succinate 500mg/5ml oral suspension","oral","erythromycin ethyl succinate","100.000mg/1.000ml","0501050H0AAACAC","5010500",40000,"in both",1
+"537941000033115","39107211000001106","erythromycin ethyl succinate 500mg/5ml oral suspension sugar free","erythromycin ethyl succinate 500mg/5ml oral suspension sugar free","oral","erythromycin ethyl succinate","100.000mg/1.000ml","0501050H0AAANAN","5010500",70000,"in both",1
+"538841000033112","324179001","erythromycin ethyl succinate 500mg tablets","erythromycin ethyl succinate 500mg tablets","oral","erythromycin ethyl succinate","500.000mg","0501050H0AAAEAE","5010500",6e+05,"in both",1
+"540141000033115","580811000001109","erythroped a 500mg tablets (advanz pharma)","erythroped a 500mg tablets","oral","erythromycin ethyl succinate","500.000mg","0501050H0BDAIAE","13060200",4e+05,"in both",1
+"55941000033112","234411000001104","amoxil 125mg/5ml syrup sucrose free (glaxosmithkline uk ltd)","amoxil 125mg/5ml syrup sucrose free","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0BCAEAS",NA,5e+05,"in both",1
+"56041000033119","689711000001103","amoxil 250mg/5ml syrup sucrose free (glaxosmithkline uk ltd)","amoxil 250mg/5ml syrup sucrose free","oral","amoxicillin trihydrate","50.000mg/1.000ml","0501013B0BCAFAT",NA,90000,"in both",1
+"5697041000033116","7322211000001104","co-amoxiclav 125mg/31mg/5ml oral suspension","co-amoxiclav 125mg/31mg/5ml oral suspension","oral","amoxicillin trihydrate/ potassium clavulanate","25.000mg/1.000ml + 6.250mg/1.000ml","0501013K0AAAHAH","5010103",30000,"in both",1
+"5697141000033117","7322311000001107","co-amoxiclav 250mg/62mg/5ml oral suspension","co-amoxiclav 250mg/62mg/5ml oral suspension","oral","amoxicillin trihydrate/ potassium clavulanate","50.000mg/1.000ml + 12.500mg/1.000ml","0501013K0AAAIAI","5010103",30000,"in both",1
+"5747941000033119","4865011000001104","cefalexin 125mg/5ml oral suspension sugar free","cefalexin 125mg/5ml oral suspension sugar free","oral","cefalexin","25.000mg/1.000ml","0501021L0AAANAN","5010200",30000,"in both",1
+"7871241000033116","8485311000001109","doxycycline 50mg/5ml oral suspension","doxycycline 50mg/5ml oral suspension","oral","doxycycline hyclate","10.000mg/1.000ml","0501030I0AAAHAH",NA,500,"in both",1
+"804941000033116","40811000001101","klaricid xl 500mg tablets (mylan)","klaricid xl 500mg tablets","oral","clarithromycin","500.000mg","0501050B0BBAEAE","5010500",50000,"in both",1
+"805141000033117","917411000001101","klaricid paediatric 125mg/5ml oral suspension (mylan)","klaricid paediatric 125mg/5ml oral suspension","oral","clarithromycin","25.000mg/1.000ml","0501050B0BBABAB","5010500",30000,"in both",1
+"805341000033119","3253811000001107","klaricid adult 250mg granules sachets (mylan)","klaricid adult 250mg granules sachets","oral","clarithromycin","250.000mg","0501050B0BBAFAF","5010500",1000,"in both",1
+"805441000033113","463111000001102","klaricid 500 tablets (abbott laboratories ltd)","klaricid 500 tablets","oral","clarithromycin","500.000mg","0501050B0BBADAD","1030500",20000,"in both",1
+"805741000033118","220811000001105","klaricid 250mg tablets (abbott laboratories ltd)","klaricid 250mg tablets","oral","clarithromycin","250.000mg","0501050B0BBAAAA","5010500",1e+05,"in both",1
+"93141000033115","386811000001108","augmentin 375mg dispersible tablets (glaxosmithkline uk ltd)","augmentin 375mg dispersible tablets","oral","amoxicillin trihydrate/ potassium clavulanate","250.000mg + 125.000mg","0501013K0BBABAB",NA,20000,"in both",1
+"94641000033110","932211000001108","augmentin 125/31 sf oral suspension (glaxosmithkline uk ltd)","augmentin 125/31 sf oral suspension","oral","amoxicillin trihydrate/ potassium clavulanate","25.000mg/1.000ml + 6.250mg/1.000ml","0501013K0BBAJAD","5010103",2e+05,"in both",1
+"94741000033118","866111000001100","augmentin 250/62 sf oral suspension (glaxosmithkline uk ltd)","augmentin 250/62 sf oral suspension","oral","amoxicillin trihydrate/ potassium clavulanate","50.000mg/1.000ml + 12.500mg/1.000ml","0501013K0BBAKAG","5010103",80000,"in both",1
+"94841000033111","169511000001107","augmentin-duo 400/57 oral suspension (glaxosmithkline uk ltd)","augmentin-duo 400/57 oral suspension","oral","amoxicillin trihydrate/ potassium clavulanate","80.000mg/1.000ml + 11.400mg/1.000ml","0501013K0BBAMAK","5010103",60000,"in both",1
+"94941000033115","94411000001100","augmentin 375mg tablets (glaxosmithkline uk ltd)","augmentin 375mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","250.000mg + 125.000mg","0501013K0BBAAAA","5010103",9e+05,"in both",1
+"95041000033115","292511000001103","augmentin 625mg tablets (glaxosmithkline uk ltd)","augmentin 625mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","500.000mg + 125.000mg","0501013K0BBALAJ","5010103",1e+05,"in both",1
+"96941000033113","324252006","azithromycin 250mg capsules","azithromycin 250mg capsules","oral","azithromycin dihydrate","250.000mg","0501050A0AAAAAA","5010500",6e+05,"in both",1
+"98441000033116","324253001","azithromycin 200mg/5ml oral suspension","azithromycin 200mg/5ml oral suspension","oral","azithromycin","40.000mg/1.000ml","0501050A0AAABAB","5010500",3e+05,"in both",1
+"37241000033112","196111000001109","almodan 125mg/5ml syrup (teva uk ltd)","almodan 125mg/5ml syrup","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0BDABAJ",NA,20000,"in both",1
+"460341000033118","793311000001106","distaclor 125mg/5ml oral suspension (flynn pharma ltd)","distaclor 125mg/5ml oral suspension","oral","cefaclor monohydrate","25.000mg/1.000ml","0501021A0BBABAB","5010201",70000,"in both",1
+"460441000033112","602211000001101","distaclor 250mg/5ml oral suspension (flynn pharma ltd)","distaclor 250mg/5ml oral suspension","oral","cefaclor monohydrate","50.000mg/1.000ml","0501021A0BBACAC","5010201",20000,"in both",1
+"802741000033110","691711000001103","keflex 125mg/5ml oral suspension (flynn pharma ltd)","keflex 125mg/5ml oral suspension","oral","cefalexin","25.000mg/1.000ml","0501021L0BCAEAC","5010201",20000,"in both",1
+"232341000033112","96011000001104","ceporex 125mg/5ml syrup (strides pharma uk ltd)","ceporex 125mg/5ml syrup","oral","cefalexin","25.000mg/1.000ml","0501021L0BBAHAC","5010201",20000,"in both",1
+"802841000033117","757911000001105","keflex 250mg/5ml oral suspension (flynn pharma ltd)","keflex 250mg/5ml oral suspension","oral","cefalexin","50.000mg/1.000ml","0501021L0BCAFAD","5010201",10000,"in both",1
+"232441000033118","875311000001101","ceporex 250mg/5ml syrup (strides pharma uk ltd)","ceporex 250mg/5ml syrup","oral","cefalexin","50.000mg/1.000ml","0501021L0BBAIAD","5010201",10000,"in both",1
+"967441000033110","435511000001103","nicef 250mg capsules (strides pharma uk ltd)","nicef 250mg capsules","oral","cefradine","250.000mg","0501021M0BCAAAA","5010201",70,"in both",1
+"1506041000033114","705811000001100","velosef 250mg capsules (bristol-myers squibb pharmaceuticals ltd)","velosef 250mg capsules","oral","cefradine","250.000mg","0501021M0BBAAAA",NA,20000,"in both",1
+"967541000033111","769211000001104","nicef 500mg capsules (strides pharma uk ltd)","nicef 500mg capsules","oral","cefradine","500.000mg","0501021M0BCABAB","5010201",30,"in both",1
+"1506141000033113","8911000001102","velosef 500mg capsules (bristol-myers squibb pharmaceuticals ltd)","velosef 500mg capsules","oral","cefradine","500.000mg","0501021M0BBABAB",NA,20000,"in both",1
+"415841000033119","2852111000001109","demix 100 capsules (ashbourne pharmaceuticals ltd)","demix 100 capsules","oral","doxycycline hyclate","100.000mg","0501030I0BHAAAB",NA,10000,"in both",1
+"2104341000033112","2853411000001108","doxylar 100mg capsules (sandoz ltd)","doxylar 100mg capsules","oral","doxycycline hyclate","100.000mg","0501030I0BCAAAB","13060200",400,"in both",1
+"2193041000033114","2853611000001106","vibrox 100mg capsules (kent pharma (uk) ltd)","vibrox 100mg capsules","oral","doxycycline hyclate","100.000mg","0501030I0BLAAAB",NA,400,"in both",1
+"1514941000033119","2854011000001102","vibramycin 100mg capsules (pfizer ltd)","vibramycin 100mg capsules","oral","doxycycline hyclate","100.000mg","0501030I0BEABAB",NA,2e+05,"in both",1
+"415941000033110","2848211000001104","demix 50 capsules (ashbourne pharmaceuticals ltd)","demix 50 capsules","oral","doxycycline hyclate","50.000mg","0501030I0BHABAA",NA,600,"in both",1
+"2104241000033119","2849311000001101","doxylar 50mg capsules (sandoz ltd)","doxylar 50mg capsules","oral","doxycycline hyclate","50.000mg","0501030I0BCABAA","13060200/ 5040100",60,"in both",1
+"1515041000033119","2849511000001107","vibramycin 50 capsules (pfizer ltd)","vibramycin 50 capsules","oral","doxycycline hyclate","50.000mg","0501030I0BEAAAA",NA,70000,"in both",1
+"1705841000033113","2849711000001102","vibramycin acne pack 50mg capsules (pfizer ltd)","vibramycin acne pack 50mg capsules","oral","doxycycline hyclate","50.000mg","0501030I0BEAEAA",NA,4000,"in both",1
+"1183741000033110","235411000001103","rommix 250 ec tablets (ashbourne pharmaceuticals ltd)","rommix 250 ec tablets","oral","erythromycin","250.000mg","0501050C0BIAAAB","5010500",10000,"in both",1
+"539541000033115","274611000001103","erythrocin 250 tablets (advanz pharma)","erythrocin 250 tablets","oral","erythromycin stearate","250.000mg","0501050N0BBAAAA","13060200",90000,"in both",1
+"539641000033119","30611000001101","erythrocin 500 tablets (advanz pharma)","erythrocin 500 tablets","oral","erythromycin stearate","500.000mg","0501050N0BBABAB","13060200",70000,"in both",1
+"10220241000033110","28922411000001103","evoxil 500mg tablets (kent pharma (uk) ltd)","evoxil 500mg tablets","oral","levofloxacin hemihydrate","500.000mg","0501120X0BCACAA",NA,1,"in both",1
+"56841000033114","42011000001106","amoram 125mg/5ml oral suspension (lpc medical (uk) ltd)","amoram 125mg/5ml oral suspension","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0BGACAS","5010103",8000,"in both",1
+"55641000033117","774011000001100","amix 125 oral suspension (ashbourne pharmaceuticals ltd)","amix 125 oral suspension","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0BFAGAS","5010103",40000,"in both",1
+"625941000033118","874611000001105","galenamox 125mg/5ml oral suspension (galen ltd)","galenamox 125mg/5ml oral suspension","oral","amoxicillin trihydrate","25.000mg/1.000ml","0501013B0BHACAS","5010103",20000,"in both",1
+"53941000033113","3243311000001101","amoxil 3g oral powder sachets sucrose free (glaxosmithkline uk ltd)","amoxil 3g oral powder sachets sucrose free","oral","amoxicillin trihydrate","3.000gram","0501013B0BCAIAH","5010103",30000,"in both",1
+"1436941000033111","165611000001108","tiloryth 250mg gastro-resistant capsules (tillomed laboratories ltd)","tiloryth 250mg gastro-resistant capsules","oral","erythromycin","250.000mg","0501050C0BKAAAK","5010500",400,"in both",1
+"2890541000033117","4227311000001109","kerymax 250mg gastro-resistant capsules (kent pharma (uk) ltd)","kerymax 250mg gastro-resistant capsules","oral","erythromycin","250.000mg","0501050C0BLAAAK",NA,8,"in both",1
+"534141000033113","759811000001108","erymax 250mg gastro-resistant capsules (teva uk ltd)","erymax 250mg gastro-resistant capsules","oral","erythromycin","250.000mg","0501050C0BCAAAK","5010500",2e+05,"in both",1
+"803141000033116","531011000001104","keftid 125mg/5ml oral suspension (strides pharma uk ltd)","keftid 125mg/5ml oral suspension","oral","cefaclor monohydrate","25.000mg/1.000ml","0501021A0BDACAJ","5010201",10,"in both",1
+"803241000033111","318811000001107","keftid 250mg/5ml oral suspension (strides pharma uk ltd)","keftid 250mg/5ml oral suspension","oral","cefaclor monohydrate","50.000mg/1.000ml","0501021A0BDADAK","5010201",40,"in both",1
+"452341000033110","583511000001100","distaclor mr 375mg tablets (flynn pharma ltd)","distaclor mr 375mg tablets","oral","cefaclor monohydrate","375.000mg","0501021A0BBAEAG","5010201",1e+05,"in both",1
+"2617541000033112","869711000001109","bacticlor mr 375mg tablets (ranbaxy (uk) ltd)","bacticlor mr 375mg tablets","oral","cefaclor monohydrate","375.000mg","0501021A0BEAAAG",NA,80,"in both",1
+"232541000033117","3234011000001103","ceporex 500mg/5ml syrup (strides pharma uk ltd)","ceporex 500mg/5ml syrup","oral","cefalexin","100.000mg/1.000ml","0501021L0BBAJAE","5010201",1000,"in both",1
+"1511941000033116","3466111000001104","velosef 250mg/5ml syrup (bristol-myers squibb pharmaceuticals ltd)","velosef 250mg/5ml syrup","oral","cefradine","50.000mg/1.000ml","0501021M0BBACAF",NA,5000,"in both",1
+"6030241000033111","18149211000001106","clarie xl 500mg tablets (teva uk ltd)","clarie xl 500mg tablets","oral","clarithromycin","500.000mg","0501050B0BEAAAE",NA,200,"in both",1
+"5150241000033119","15656211000001107","efracea 40mg modified-release capsules (galderma (uk) ltd)","efracea 40mg modified-release capsules","oral","doxycycline monohydrate","40.000mg","0501030Z0BBAAAA","5010300",6000,"in both",1
+"2290941000033119","618111000001108","ranclav 125mg/31mg/5ml sf oral suspension (ranbaxy (uk) ltd)","ranclav 125mg/31mg/5ml sf oral suspension","oral","amoxicillin trihydrate/ potassium clavulanate","25.000mg/1.000ml + 6.250mg/1.000ml","0501013K0BDADAD",NA,8,"in both",1
+"625841000033114","190111000001106","galenamox 250mg/5ml oral suspension (galen ltd)","galenamox 250mg/5ml oral suspension","oral","amoxicillin trihydrate","50.000mg/1.000ml","0501013B0BHADAT","5010103",3000,"in both",1
+"55741000033114","252511000001109","amix 250 oral suspension (ashbourne pharmaceuticals ltd)","amix 250 oral suspension","oral","amoxicillin trihydrate","50.000mg/1.000ml","0501013B0BFAIAT","5010103",10000,"in both",1
+"56941000033118","284811000001105","amoram 250mg/5ml oral suspension (lpc medical (uk) ltd)","amoram 250mg/5ml oral suspension","oral","amoxicillin trihydrate","50.000mg/1.000ml","0501013B0BGADAT","5010103",3000,"in both",1
+"235141000033115","474311000001107","ceporex 250mg tablets (strides pharma uk ltd)","ceporex 250mg tablets","oral","cefalexin","250.000mg","0501021L0BBACAG","5010201",20000,"in both",1
+"803341000033118","91011000001106","keflex 250mg tablets (flynn pharma ltd)","keflex 250mg tablets","oral","cefalexin","250.000mg","0501021L0BCACAG","5010201",4000,"in both",1
+"221041000033115","343411000001108","ceporex 500mg capsules (strides pharma uk ltd)","ceporex 500mg capsules","oral","cefalexin","500.000mg","0501021L0BBABAB","5010201",50000,"in both",1
+"796941000033114","362611000001105","keflex 500mg capsules (flynn pharma ltd)","keflex 500mg capsules","oral","cefalexin","500.000mg","0501021L0BCABAB","5010201",30000,"in both",1
+"1523841000033118","2847211000001103","vibramycin-d 100mg dispersible tablets (pfizer ltd)","vibramycin-d 100mg dispersible tablets","oral","doxycycline monohydrate","100.000mg","0501030Z0BCAAAB","13060200/ 5040100",8000,"in both",1
+"2290741000033117","139811000001101","ranclav 375mg tablets (ranbaxy (uk) ltd)","ranclav 375mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","250.000mg + 125.000mg","0501013K0BDAAAA",NA,60,"in both",1
+"2186941000033119","29011000001102","amiclav 250mg/125mg tablets (ashbourne pharmaceuticals ltd)","amiclav 250mg/125mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","250.000mg + 125.000mg","0501013K0BCAAAA","5010103",600,"in both",1
+"1671741000033118","161011000001103","respillin 250mg capsules (kent pharma (uk) ltd)","respillin 250mg capsules","oral","amoxicillin trihydrate","250.000mg","0501013B0BNACAA",NA,200,"in both",1
+"620241000033118","2011000001104","galenamox 250mg capsules (galen ltd)","galenamox 250mg capsules","oral","amoxicillin trihydrate","250.000mg","0501013B0BHAAAA","5010103",20000,"in both",1
+"45441000033117","500511000001107","amoram 250mg capsules (lpc medical (uk) ltd)","amoram 250mg capsules","oral","amoxicillin trihydrate","250.000mg","0501013B0BGAAAA","5010103",10000,"in both",1
+"46141000033118","644811000001100","amix 250 capsules (ashbourne pharmaceuticals ltd)","amix 250 capsules","oral","amoxicillin trihydrate","250.000mg","0501013B0BFAEAA","5010103",60000,"in both",1
+"45641000033115","121011000001106","amix 500 capsules (ashbourne pharmaceuticals ltd)","amix 500 capsules","oral","amoxicillin trihydrate","500.000mg","0501013B0BFAFAB","5010103",7000,"in both",1
+"620341000033111","130111000001103","galenamox 500mg capsules (galen ltd)","galenamox 500mg capsules","oral","amoxicillin trihydrate","500.000mg","0501013B0BHABAB","5010103",4000,"in both",1
+"1671841000033111","14811000001102","respillin 500mg capsules (kent pharma (uk) ltd)","respillin 500mg capsules","oral","amoxicillin trihydrate","500.000mg","0501013B0BNADAB",NA,100,"in both",1
+"45541000033116","19211000001104","amoram 500mg capsules (lpc medical (uk) ltd)","amoram 500mg capsules","oral","amoxicillin trihydrate","500.000mg","0501013B0BGABAB","5010103",5000,"in both",1
+"4823141000033118","14759911000001105","clamelle 500mg tablets (actavis uk ltd)","clamelle 500mg tablets","oral","azithromycin","500.000mg","0501050A0BCAAAD",NA,60,"in both",1
+"797641000033116","555211000001108","keftid 250mg capsules (strides pharma uk ltd)","keftid 250mg capsules","oral","cefaclor monohydrate","250.000mg","0501021A0BDAAAA","5010201",40,"in both",1
+"433941000033116","252811000001107","distaclor 500mg capsules (flynn pharma ltd)","distaclor 500mg capsules","oral","cefaclor monohydrate","500.000mg","0501021A0BBADAE","5010201",6000,"in both",1
+"797741000033113","803611000001101","keftid 500mg capsules (strides pharma uk ltd)","keftid 500mg capsules","oral","cefaclor monohydrate","500.000mg","0501021A0BDABAE","5010201",6,"in both",1
+"796841000033118","733011000001104","keflex 250mg capsules (flynn pharma ltd)","keflex 250mg capsules","oral","cefalexin","250.000mg","0501021L0BCAAAA","5010201",40000,"in both",1
+"220941000033113","904711000001102","ceporex 250mg capsules (strides pharma uk ltd)","ceporex 250mg capsules","oral","cefalexin","250.000mg","0501021L0BBAAAA","5010201",50000,"in both",1
+"235241000033110","471811000001100","ceporex 500mg tablets (strides pharma uk ltd)","ceporex 500mg tablets","oral","cefalexin","500.000mg","0501021L0BBADAH","5010201",30000,"in both",1
+"803441000033112","622911000001103","keflex 500mg tablets (flynn pharma ltd)","keflex 500mg tablets","oral","cefalexin","500.000mg","0501021L0BCADAH","5010201",7000,"in both",1
+"2637141000033110","3959411000001106","periostat 20mg tablets (alliance pharmaceuticals ltd)","periostat 20mg tablets","oral","doxycycline hyclate","20.000mg","1203010U0BBABAB","12030100",400,"in both",1
+"3838841000033115","9739611000001100","clarosip 125mg granules for oral suspension straws (grunenthal ltd)","clarosip 125mg granules for oral suspension straws","oral","clarithromycin","125.000mg","0501050B0BDAAAK","5010500",40,"in both",1
+"3838941000033111","9739911000001106","clarosip 187.5mg granules for oral suspension straws (grunenthal ltd)","clarosip 187.5mg granules for oral suspension straws","oral","clarithromycin","187.500mg","0501050B0BDABAL","5010500",2,"in both",1
+"3839041000033119","9740211000001105","clarosip 250mg granules for oral suspension straws (grunenthal ltd)","clarosip 250mg granules for oral suspension straws","oral","clarithromycin","250.000mg","0501050B0BDACAM","5010500",2,"in both",1
+"24841000033116",NA,"almodan capsules 250 mg",NA,NA,NA,NA,NA,NA,50000,"new only",1
+"24941000033112",NA,"almodan capsules 500 mg",NA,NA,NA,NA,NA,NA,2000,"new only",1
+"37341000033119",NA,"almodan syrup 250 mg/5 ml",NA,NA,NA,NA,NA,NA,7000,"new only",1
+"46841000033112",NA,"amoxil dispersible tablets 500 mg",NA,NA,NA,NA,NA,NA,1000,"new only",1
+"47341000033118",NA,"amoxil fiztabs 250 mg",NA,NA,NA,NA,NA,NA,3000,"new only",1
+"47441000033112",NA,"amoxil fiztabs 500 mg",NA,NA,NA,NA,NA,NA,300,"new only",1
+"54041000033110",NA,"amoxil sachets sf 750 mg",NA,NA,NA,NA,NA,NA,2000,"new only",1
+"95141000033116",NA,"augmentin tablets",NA,NA,NA,NA,NA,NA,1e+05,"new only",1
+"104041000033114","674111000001108","baxan 500mg capsules (bristol-myers squibb pharmaceuticals ltd)","baxan 500mg capsules","oral","cefadroxil monohydrate","500.000mg",NA,NA,10000,"new only",1
+"115941000033114","60011000001100","baxan 250mg/5ml oral suspension (bristol-myers squibb pharmaceuticals ltd)","baxan 250mg/5ml oral suspension","oral","cefadroxil monohydrate","50.000mg/1.000ml",NA,NA,2000,"new only",1
+"116041000033116","304211000001103","baxan 500mg/5ml oral suspension (bristol-myers squibb pharmaceuticals ltd)","baxan 500mg/5ml oral suspension","oral","cefadroxil monohydrate","100.000mg/1.000ml",NA,NA,600,"new only",1
+"220541000033119","39735211000001102","cefadroxil 500mg capsules","cefadroxil 500mg capsules","oral","cefadroxil monohydrate","500.000mg",NA,"5010201",3e+05,"new only",1
+"227841000033116",NA,"cefaclor m/r tablets 500 mg",NA,NA,NA,NA,NA,NA,800,"new only",1
+"231441000033114",NA,"ceporex suspension 250 mg/5 ml",NA,NA,NA,NA,NA,NA,4000,"new only",1
+"231541000033110","323812006","cefadroxil 250mg/5ml oral suspension","cefadroxil 250mg/5ml oral suspension","oral","cefadroxil monohydrate","50.000mg/1.000ml",NA,NA,20000,"new only",1
+"231641000033111","323816009","cefadroxil 500mg/5ml oral suspension","cefadroxil 500mg/5ml oral suspension","oral","cefadroxil monohydrate","100.000mg/1.000ml",NA,NA,10000,"new only",1
+"235941000033118",NA,"ceporex tablets 1g",NA,NA,NA,NA,NA,NA,4000,"new only",1
+"317241000033119",NA,"co-amoxiclav dispersible tablets",NA,NA,NA,NA,NA,NA,10000,"new only",1
+"369241000033113",NA,"co-amoxiclav tablets",NA,NA,NA,NA,NA,NA,1e+05,"new only",1
+"439041000033115",NA,"distaclor capsules 250 mg",NA,NA,NA,NA,NA,NA,60000,"new only",1
+"453841000033111",NA,"distaclor mr m/r tablets 500 mg",NA,NA,NA,NA,NA,NA,300,"new only",1
+"479441000033114",NA,"doxycycline syrup 50 mg/5 ml",NA,NA,NA,NA,NA,NA,200,"new only",1
+"481941000033110",NA,"doxycycline tablets 100 mg",NA,NA,NA,NA,NA,NA,20000,"new only",1
+"534341000033111",NA,"erythromycin ethyl succinate granules 1 gram/sachet",NA,NA,NA,NA,NA,NA,300,"new only",1
+"534541000033116",NA,"erythromycin ethyl succinate granules 250 mg/sachet",NA,NA,NA,NA,NA,NA,300,"new only",1
+"534641000033115",NA,"erythromycin ethyl succinate granules 500 mg/sachet",NA,NA,NA,NA,NA,NA,300,"new only",1
+"534741000033112",NA,"erythroped granules forte 500 mg/sachet",NA,NA,NA,NA,NA,NA,1000,"new only",1
+"535841000033115",NA,"erythromycin ethyl succinate mixture 250 mg/5 ml",NA,NA,NA,NA,NA,NA,9000,"new only",1
+"535941000033111",NA,"erythromycin ethyl succinate mixture 500 mg/5 ml",NA,NA,NA,NA,NA,NA,3000,"new only",1
+"536441000033110",NA,"erythroped sachets 250 mg/sachet",NA,NA,NA,NA,NA,NA,3000,"new only",1
+"536541000033111",NA,"erythroped a sachets 1 gram/sachet",NA,NA,NA,NA,NA,NA,3000,"new only",1
+"536741000033115",NA,"erythromycin tablets 250 mg",NA,NA,NA,NA,NA,NA,3e+06,"new only",1
+"536841000033113",NA,"erythromycin stearate tablets 500 mg",NA,NA,NA,NA,NA,NA,5e+05,"new only",1
+"537041000033116",NA,"erythromycin suspension 500 mg/5 ml",NA,NA,NA,NA,NA,NA,40000,"new only",1
+"537141000033117",NA,"erythroped suspension 250 mg/5 ml",NA,NA,NA,NA,NA,NA,1e+05,"new only",1
+"538241000033113",NA,"erythroped sugar free granules 250 mg/sachet",NA,NA,NA,NA,NA,NA,800,"new only",1
+"538341000033115",NA,"erythromycin sugar free granules 250 mg/sachet",NA,NA,NA,NA,NA,NA,400,"new only",1
+"538441000033114",NA,"erythromycin suspension 250 mg/5 ml",NA,NA,NA,NA,NA,NA,2e+05,"new only",1
+"538641000033111",NA,"erythromycin sugar free suspension 250mg/5ml",NA,NA,NA,NA,NA,NA,20000,"new only",1
+"540041000033119",NA,"erythromycin tablets 500 mg",NA,NA,NA,NA,NA,NA,4e+05,"new only",1
+"798141000033113",NA,"keflex-c chewable tablets 250 mg",NA,NA,NA,NA,NA,NA,9,"new only",1
+"1183841000033117",NA,"rommix tablets 500 mg",NA,NA,NA,NA,NA,NA,600,"new only",1
+"1572541000033110",NA,"augmentin 1 g tablets",NA,NA,NA,NA,NA,NA,4,"new only",1
+"1672441000033117",NA,"respillin sugar-free syrup 250 mg/5 ml",NA,NA,NA,NA,NA,NA,30,"new only",1
+"1672641000033115",NA,"respillin syrup 250 mg/5 ml",NA,NA,NA,NA,NA,NA,20,"new only",1
+"13707941000033117","38726811000001109","amoxicillin 1g dispersible tablets sugar free","amoxicillin 1g dispersible tablets sugar free","oral","amoxicillin trihydrate","1.000gram",NA,NA,70,"new only",1
+"13827741000033111","769817000","amoxicillin 500mg/5ml oral suspension sugar free","amoxicillin 500mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate","100.000mg/1.000ml",NA,NA,300,"new only",1
+"8246541000033111","21667211000001100","mycifor xl 500mg tablets (forum products ltd)","mycifor xl 500mg tablets","oral","clarithromycin","500.000mg","0501050B0BFAAAE",NA,NA,"old only",1
+"8243841000033116","21708211000001104","febzin xl 500mg tablets (actavis uk ltd)","febzin xl 500mg tablets","oral","clarithromycin","500.000mg","0501050B0BGAAAE",NA,NA,"old only",1
+"11809941000033116","33656011000001108","xetinin xl 500mg tablets (morningside healthcare ltd)","xetinin xl 500mg tablets","oral","clarithromycin","500.000mg","0501050B0BHAAAE",NA,NA,"old only",1
+"13707941000033116","38726811000001112","amoxicillin 1g dispersible tablets sugar free","amoxicillin 1g dispersible tablets sugar free","oral","amoxicillin trihydrate","1.000gram","0501013B0AAAUAU",NA,NA,"old only",1
+"6427141000033111","19374111000001108","evoxil 250mg tablets (beacon pharmaceuticals ltd)","evoxil 250mg tablets","oral","levofloxacin hemihydrate","250.000mg","0501120X0BCAAAB",NA,NA,"old only",1
+"2290841000033110","57911000001109","ranclav 625mg tablets (ranbaxy (uk) ltd)","ranclav 625mg tablets","oral","amoxicillin trihydrate/ potassium clavulanate","500.000mg + 125.000mg","0501013K0BDABAJ",NA,NA,"old only",1
+"13827741000033112","769817000","amoxicillin 500mg/5ml oral suspension sugar free","amoxicillin 500mg/5ml oral suspension sugar free","oral","amoxicillin trihydrate","100.000mg/1.000ml","0501013B0AAAVAV",NA,NA,"old only",1

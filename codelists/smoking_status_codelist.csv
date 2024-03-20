@@ -1,0 +1,410 @@
+medcodeid,observations,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,emiscodecategoryid,term,smoking_status,drugs,passive,vape,smokeless_tobacco,packyears,gp_recorded_smoking,ever_smoker
+"1009271000006118",20000,"ASDFGNO1","","1009271000006102","1009271000006118","Personal Health and Social","Non Smoker - Nos","Never smoker",,,,,,1,
+"7965041000006111",800,"^ESCTNE796504","","221000119102","2916218010","Personal Health and Social","Never smoked any substance","Never smoker",,,,,,1,
+"5495921000006119",4000,"^ESCTNE549592","","266919005","397731016","Personal Health and Social","Never smoked","Never smoker",,,,,,1,
+"397732011",70000000,"1371","1371.00","266919005","397732011","Personal Health and Social","Never smoked tobacco","Never smoker",,,,,,1,
+"1123751000000113",5000,"9kn","9kn..00","505681000000109","1154431000000112","Administration, documents and attachments","Non-smoker annual review - enhanced services administration","Never smoker",,,,,,1,
+"1154431000000112",20000,"9kn-1","9kn..11","505681000000109","1154431000000112","Administration, documents and attachments","Non-smoker annual review","Never smoker",,,,,,1,
+"7569061000006118",5,"^ESCTNE756906","","702979003","3006734013","Unset","Never used tobacco","Never smoker",,,,,,1,
+"14866014",2000000,"1371-1","1371.11","8392000","14866014","Personal Health and Social","Non-smoker","Never smoker",,,,,,1,
+"854951000006113",4000,"EGTONGR10","","854951000006109","854951000006113","Diagnostics","Grade A non-smoker","Never smoker",,,,,,1,
+"2735181000000113",1000,"^ESCT1172035","","1092031000000108","2735181000000113","Personal Health and Social","Ex-smoker amount unknown","Ex-smoker",,,,,,1,1
+"2735201000000112",20,"^ESCT1172036","","1092041000000104","2735201000000112","Personal Health and Social","Ex-very heavy smoker (40+/day)","Ex-smoker",,,,,,1,1
+"2735281000000119",100,"^ESCT1172039","","1092071000000105","2735281000000119","Personal Health and Social","Ex-heavy smoker (20-39/day)","Ex-smoker",,,,,,1,1
+"2735331000000112",90,"^ESCT1172042","","1092091000000109","2735331000000112","Personal Health and Social","Ex-moderate smoker (10-19/day)","Ex-smoker",,,,,,1,1
+"2735381000000111",200,"^ESCT1172045","","1092111000000104","2735381000000111","Personal Health and Social","Ex-light smoker (1-9/day)","Ex-smoker",,,,,,1,1
+"2735421000000119",200,"^ESCT1172048","","1092131000000107","2735421000000119","Personal Health and Social","Ex-trivial smoker (<1/day)","Ex-smoker",,,,,,1,1
+"137761000006114",70000,"EGTONSM4","","137761000006105","137761000006114","Personal Health and Social","Smoking Age Ceased","Ex-smoker",,,,,,1,1
+"250373019",4000000,"137K","137K.00","160617001","250373019","Personal Health and Social","Stopped smoking","Ex-smoker",,,,,,1,1
+"250374013",10000000,"137L","137L.00","160618006","250374013","Personal Health and Social","Current non-smoker","Ex-smoker",,,,,,1,1
+"903051000006112",7,"137L-99","137L.99","160618006","903051000006112","Personal Health and Social","Tobacco Consumption Nil","Ex-smoker",,,,,,1,1
+"649831000006117",50000,"137N","137N.00","160620009","250376010","Personal Health and Social","Ex-pipe smoker","Ex-smoker",,,,,,1,1
+"649821000006115",50000,"137O","137O.00","160621008","250377018","Personal Health and Social","Ex-cigar smoker","Ex-smoker",,,,,,1,1
+"250385010",2000000,"137T","137T.00","160625004","250385010","Personal Health and Social","Date ceased smoking","Ex-smoker",,,,,,1,1
+"1626121000006116",30000,"EMISNQSM6","","1626121000006100","1626121000006116","Conditions, operations and procedures","Smoking cessation drug therapy - varenicline","Ex-smoker",,,,,,1,1
+"295259018",100,"E2513","E251300","191889006","295259018","Conditions, operations and procedures","Tobacco dependence in remission","Ex-smoker",,,,,,1,1
+"1974281000006116",2,"EMISICD10|F1720","","1974281000006100","1974281000006116","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, currently abstinent","Ex-smoker",,,,,,1,1
+"1974311000006119",1,"EMISICD10|F1721","","1974311000006103","1974311000006119","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but in a protected environment","Ex-smoker",,,,,,1,1
+"1974371000006111",1,"EMISICD10|F1723","","1974371000006107","1974371000006111","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs","Ex-smoker",,,,,,1,1
+"1974501000006110",4,"EMISICD10|F1730","","1974501000006106","1974501000006110","Conditions, operations and procedures","Mental and behav dis due to use tobacco: withdrawal state, uncomplicated","Ex-smoker",,,,,,1,1
+"1974531000006119",1,"EMISICD10|F1731","","1974531000006103","1974531000006119","Conditions, operations and procedures","Mental and behav dis due to use tobacco: withdrawal state, with convulsions","Ex-smoker",,,,,,1,1
+"1974571000006116",1,"EMISICD10|F1740","","1974571000006100","1974571000006116","Conditions, operations and procedures","Mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions","Ex-smoker",,,,,,1,1
+"8061901000006111",700,"^ESCTAT806190","","201931000000109","307601000000110","Unset","Attends practice smoking cessation clinic","Ex-smoker",,,,,,1,1
+"1771191000006119",800,"EMISNQAT12","","201941000000100","307621000000118","Administration, documents and attachments","Attends smoking cessation clinic not at practice","Ex-smoker",,,,,,1,1
+"4980561000006117",700,"^ESCTTI498056","","228486009","342573017","Personal Health and Social","Time since stopped smoking","Ex-smoker",,,,,,1,1
+"250363016",500000,"1377","1377.00","266921000","397736014","Personal Health and Social","Ex-trivial cigarette smoker (<1/day)","Ex-smoker",,,,,,1,1
+"250364010",1000000,"1378","1378.00","266922007","397737017","Personal Health and Social","Ex-light cigarette smoker (1-9/day)","Ex-smoker",,,,,,1,1
+"250365011",2000000,"1379","1379.00","266923002","397738010","Personal Health and Social","Ex-moderate cigarette smoker (10-19/day)","Ex-smoker",,,,,,1,1
+"250366012",900000,"137A","137A.00","266924008","397739019","Personal Health and Social","Ex-heavy cigarette smoker (20-39/day)","Ex-smoker",,,,,,1,1
+"250367015",200000,"137B","137B.00","266925009","397740017","Personal Health and Social","Ex-very heavy cigarette smoker (40+/day)","Ex-smoker",,,,,,1,1
+"5496031000006112",3000,"^ESCTEX549603","","266928006","397744014","Personal Health and Social","Ex-cigarette smoker amount unknown","Ex-smoker",,,,,,1,1
+"903041000006110",10000,"137F-99","137F.99","266928006","903041000006110","Personal Health and Social","EX-Smoker NOS","Ex-smoker",,,,,,1,1
+"418914010",2000000,"137j","137j.00","281018007","418914010","Personal Health and Social","Ex-cigarette smoker","Ex-smoker",,,,,,1,1
+"6217151000006116",1,"^ESCTIN621715","","360890004","476933013","Personal Health and Social","Intolerant ex-smoker","Ex-smoker",,,,,,1,1
+"6217281000006116",2,"^ESCTAG621728","","360900008","476947012","Personal Health and Social","Aggressive ex-smoker","Ex-smoker",,,,,,1,1
+"37311000006117",50000,"EMISHGT222","","37311000006101","37311000006117","Health management, screening and monitoring","Other anti-smoking drug given","Ex-smoker",,,,,,1,1
+"6427931000006116",5,"^ESCTSM642793","","384742004","1479064018","Unset","Smoking cessation assistance","Ex-smoker",,,,,,1,1
+"11793611000006110",1,"^ESCT1179361","","384742004","3513200015","Unset","Smoking cessation behaviour support","Ex-smoker",,,,,,1,1
+"1488873010",100000,"13p4","13p4.00","395177003","1488873010","Personal Health and Social","Smoking free weeks","Ex-smoker",,,,,,1,1
+"6718071000006115",20,"^ESCTCU671807","","405746006","2157522017","Unset","Current non smoker but past smoking history unknown","Ex-smoker",,,,,,1,1
+"7368651000006119",500,"^ESCTSM736865","","449345000","2901755018","Unset","Smoked before confirmation of pregnancy","Ex-smoker",,,,,,1,1
+"7368961000006112",60,"^ESCTST736896","","449368009","2901763017","Unset","Stopped smoking during pregnancy","Ex-smoker",,,,,,1,1
+"7368971000006117",30,"^ESCTST736897","","449369001","2901764011","Unset","Stopped smoking before pregnancy","Ex-smoker",,,,,,1,1
+"8017571000006117",200,"^ESCTEX801757","","48031000119106","3047429015","Personal Health and Social","Ex-smoker for more than 1 year","Ex-smoker",,,,,,1,1
+"1059701000000119",20000,"137l","137l.00","492191000000103","1059701000000119","Personal Health and Social","Ex roll-up cigarette smoker","Ex-smoker",,,,,,1,1
+"1123951000000110",200,"9km","9km..00","505761000000105","1154471000000114","Administration, documents and attachments","Ex-smoker annual review - enhanced services administration","Ex-smoker",,,,,,1,1
+"1154471000000114",30000,"9km-1","9km..11","505761000000105","1154471000000114","Administration, documents and attachments","Ex-smoker annual review","Ex-smoker",,,,,,1,1
+"1151791000000117",30000,"137K0","137K000","517211000000106","1151791000000117","Personal Health and Social","Recently stopped smoking","Ex-smoker",,,,,,1,1
+"649851000006112",20000,"EGTON1027","","649851000006108","649851000006112","Personal Health and Social","Ex- Rolled Tobacco Smoker","Ex-smoker",,,,,,1,1
+"649861000006114",70000,"EGTON322","","649861000006105","649861000006114","Personal Health and Social","Ex-Cigarette Smoker","Ex-smoker",,,,,,1,1
+"492511000000117",200000,"745H","745H.00","710081004","3043296015","Conditions, operations and procedures","Smoking cessation therapy","Ex-smoker",,,,,,1,1
+"482871000000111",40000,"745Hy","745Hy00","710081004","3043296015","Conditions, operations and procedures","Other specified smoking cessation therapy","Ex-smoker",,,,,,1,1
+"489931000000114",20000,"745Hz","745Hz00","710081004","3043296015","Conditions, operations and procedures","Smoking cessation therapy NOS","Ex-smoker",,,,,,1,1
+"482771000000118",100000,"745H4","745H400","713700008","3297364011","Conditions, operations and procedures","Smoking cessation drug therapy","Ex-smoker",,,,,,1,1
+"3513199018",70,"^ESCT1165113","","735128000","3513199018","Personal Health and Social","Ex-smoker for less than 1 year","Ex-smoker",,,,,,1,1
+"250371017",1000000,"137F","137F.00","8517006","15047015","Personal Health and Social","Ex-smoker - amount unknown","Ex-smoker",,,,,,1,1
+"649841000006110",30000000,"137S","137S.00","8517006","15047015","Personal Health and Social","Ex-smoker","Ex-smoker",,,,,,1,1
+"298701000000114",30,"ZV116","ZV11600","8517006","15047015","Personal Health and Social","History of tobacco use","Ex-smoker",,,,,,1,1
+"2636041000006110",4,"^ESCTCE263604","","8517006","15048013","Personal Health and Social","Cessation of smoking","Ex-smoker",,,,,,1,1
+"852121000006114",10000,"EMISQSM17","","852121000006105","852121000006114","Personal Health and Social","Smoking cessation-maintain abstinence","Ex-smoker",,,,,,1,1
+"853001000006110",400,"EGTON1028","","853001000006106","853001000006110","Personal Health and Social","Ex-smoker NOS","Ex-smoker",,,,,,1,1
+"854051000006112",90,"EGTON324","","854051000006108","854051000006112","Personal Health and Social","Ex-pipe smoker","Ex-smoker",,,,,,1,1
+"854111000006110",1000,"EGTON327","","854111000006106","854111000006110","Personal Health and Social","Past smoker","Ex-smoker",,,,,,1,1
+"854151000006111",6000,"EGTON328","","854151000006107","854151000006111","Personal Health and Social","Date stopped smoking","Ex-smoker",,,,,,1,1
+"904091000006116",30000,"EMISQDA1","","904091000006100","904091000006116","Personal Health and Social","Date of last cigarette","Ex-smoker",,,,,,1,1
+"904111000006113",30000,"EMISQCO2","","904111000006109","904111000006113","Personal Health and Social","Carbon monoxide validation confirms non-smoker","Ex-smoker",,,,,,1,1
+"904201000006117",4000,"EMISQSM11","","904201000006101","904201000006117","Diagnostics","Smoking cessation confidence score","Ex-smoker",,,,,,1,1
+"904221000006110",20000,"EMISQSM15","","904221000006106","904221000006110","Conditions, operations and procedures","Smoking cessation bupropion therapy","Ex-smoker",,,,,,1,1
+"150398019",3000,"E023","E023.00","90755006","150398019","Conditions, operations and procedures","Nicotine withdrawal","Ex-smoker",,,,,,1,1
+"397991000006116",6,"Eu173","Eu17300","90755006","150398019","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: withdrawal state","Ex-smoker",,,,,,1,1
+"397281000006113",2,"Eu174","Eu17400","90755006","150398019","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: withdrawal state with delirium","Ex-smoker",,,,,,1,1
+"909391000006117",20000,"HNGZ011","","909391000006101","909391000006117","Reason for care","[RFC] Smoking cessation","Ex-smoker",,,,,,1,1
+"2717211000000112",20000,"ESCTSI77","","1084381000000100","2717211000000112","Conditions, operations and procedures","Signposting to smoking cessation service","Current smoker",,,,,,1,1
+"1175011000000112",400000,"8IEK","8IEK.00","1087441000000106","2724181000000114","Conditions, operations and procedures","Smoking cessation programme declined","Current smoker",,,,,,1,1
+"460828018",2000,"ZV4K0","ZV4K000","110483000","175325014","Conditions, operations and procedures","Tobacco user","Current smoker",,,,,,1,1
+"4180331000006118",1,"^ESCTTO418033","","110483000","2923440014","Conditions, operations and procedures","Tobacco use","Current smoker",,,,,,1,1
+"12626191000006119",2,"^ESCT1262619","","1110791000000100","2779491000000117","Unset","VBA (Very Brief Advice) on Smoking","Current smoker",,,,,,1,1
+"12626391000006117",5000,"^ESCT1262639","","1110971000000101","2779921000000110","Administration, documents and attachments","QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation","Current smoker",,,,,,1,1
+"216212011",40000,"137V","137V.00","134406006","216212011","Personal Health and Social","Smoking reduced","Current smoker",,,,,,1,1
+"137711000006111",8000,"EMISSMRE1","","137711000006107","137711000006111","Personal Health and Social","Smoker (Read codes)","Current smoker",,,,,,1,1
+"12734401000006119",80,"^ESCT1273440","","143461000000103","1628391000000113","Administration, documents and attachments","QOF (Quality and Outcomes Framework) smoking quality indicator-related care invitation using preferred method of communication","Current smoker",,,,,,1,1
+"1591651000006110",2000,"EMISNQSM5","","1591651000006106","1591651000006110","Conditions, operations and procedures","Smoking cessation referral declined","Current smoker",,,,,,1,1
+"743331000006116",2000000,"1373","1373.00","160603005","250358015","Personal Health and Social","Light cigarette smoker (1-9 cigs/day)","Current smoker",,,,,,1,1
+"700121000006118",3000000,"1374","1374.00","160604004","250359011","Personal Health and Social","Moderate cigarette smoker (10-19 cigs/day)","Current smoker",,,,,,1,1
+"819331000006110",1000000,"1375","1375.00","160605003","250360018","Personal Health and Social","Heavy cigarette smoker (20-39 cigs/day)","Current smoker",,,,,,1,1
+"67621000006112",100000,"1376","1376.00","160606002","250362014","Personal Health and Social","Very heavy cigarette smoker (40+ cigs/day)","Current smoker",,,,,,1,1
+"250368013",70000,"137C","137C.00","160612007","250368013","Personal Health and Social","Keeps trying to stop smoking","Current smoker",,,,,,1,1
+"250369017",3000,"137D","137D.00","160613002","2791864017","Personal Health and Social","Admitted tobacco consumption possibly untrue","Current smoker",,,,,,1,1
+"250372012",2000000,"137G","137G.00","160616005","250372012","Personal Health and Social","Trying to give up smoking","Current smoker",,,,,,1,1
+"250375014",1000000,"137M","137M.00","160619003","250375014","Personal Health and Social","Rolls own cigarettes","Current smoker",,,,,,1,1
+"4640171000006113",1000,"^ESCTPR464017","","171055003","2575653016","Personal Health and Social","Pregnancy smoking education","Current smoker",,,,,,1,1
+"265092010",70000,"67A3","67A3.00","171055003","265092010","Personal Health and Social","Pregnancy smoking advice","Current smoker",,,,,,1,1
+"1777011000006118",200,"EMISNQRE259","","1777011000006102","1777011000006118","Referral","Reason for referral: Smoking Cessation","Current smoker",,,,,,1,1
+"1778181000006110",500,"EMISNQGR20","","1778181000006106","1778181000006110","Administration, documents and attachments","Group session: Stop smoking education programme","Current smoker",,,,,,1,1
+"1819411000006114",90,"EMISNQSM14","","1819411000006105","1819411000006114","Personal Health and Social","Smoking increased","Current smoker",,,,,,1,1
+"295257016",100,"E2511","E251100","191887008","295257016","Conditions, operations and procedures","Tobacco dependence, continuous","Current smoker",,,,,,1,1
+"295258014",30,"E2512","E251200","191888003","295258014","Conditions, operations and procedures","Tobacco dependence, episodic","Current smoker",,,,,,1,1
+"8056731000006119",5,"^ESCTSM805673","","196771000000101","295421000000116","Unset","Smoking assessment","Current smoker",,,,,,1,1
+"1973821000006117",5,"EMISICD10|F1700","","1973821000006101","1973821000006117","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, uncomplicated","Current smoker",,,,,,1,1
+"1973841000006112",1,"EMISICD10|F1701","","1973841000006108","1973841000006112","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, with trauma or other bodily injury","Current smoker",,,,,,1,1
+"1973851000006114",1,"EMISICD10|F1702","","1973851000006105","1973851000006114","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, with other medical complications","Current smoker",,,,,,1,1
+"1973921000006114",1,"EMISICD10|F1703","","1973921000006105","1973921000006114","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, with delirium","Current smoker",,,,,,1,1
+"1973951000006117",1,"EMISICD10|F1704","","1973951000006101","1973951000006117","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions","Current smoker",,,,,,1,1
+"1973981000006113",1,"EMISICD10|F1705","","1973981000006109","1973981000006113","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, with coma","Current smoker",,,,,,1,1
+"1974031000006110",1,"EMISICD10|F1706","","1974031000006106","1974031000006110","Conditions, operations and procedures","Mental & behav dis due to use tobacco: acute intoxication, with convulsions","Current smoker",,,,,,1,1
+"1974341000006115",1,"EMISICD10|F1722","","1974341000006104","1974341000006115","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]","Current smoker",,,,,,1,1
+"1974401000006114",8,"EMISICD10|F1724","","1974401000006105","1974401000006114","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]","Current smoker",,,,,,1,1
+"1974421000006116",30,"EMISICD10|F1725","","1974421000006100","1974421000006116","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, continuous use","Current smoker",,,,,,1,1
+"1974461000006110",3,"EMISICD10|F1726","","1974461000006106","1974461000006110","Conditions, operations and procedures","Mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]","Current smoker",,,,,,1,1
+"1974581000006118",1,"EMISICD10|F1741","","1974581000006102","1974581000006118","Conditions, operations and procedures","Mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions","Current smoker",,,,,,1,1
+"1974651000006110",3,"EMISICD10|F1750","","1974651000006106","1974651000006110","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like","Current smoker",,,,,,1,1
+"1974681000006119",1,"EMISICD10|F1751","","1974681000006103","1974681000006119","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional","Current smoker",,,,,,1,1
+"1974711000006118",1,"EMISICD10|F1752","","1974711000006102","1974711000006118","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory","Current smoker",,,,,,1,1
+"1974741000006119",1,"EMISICD10|F1753","","1974741000006103","1974741000006119","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic","Current smoker",,,,,,1,1
+"1974761000006115",1,"EMISICD10|F1754","","1974761000006104","1974761000006115","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms","Current smoker",,,,,,1,1
+"1974791000006111",1,"EMISICD10|F1755","","1974791000006107","1974791000006111","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms","Current smoker",,,,,,1,1
+"1974811000006110",9,"EMISICD10|F1756","","1974811000006106","1974811000006110","Conditions, operations and procedures","Mental & behav dis due to use tobacco: psychotic disorder, mixed","Current smoker",,,,,,1,1
+"1974841000006114",1,"EMISICD10|F1770","","1974841000006105","1974841000006114","Conditions, operations and procedures","Mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks","Current smoker",,,,,,1,1
+"1974871000006118",3,"EMISICD10|F1771","","1974871000006102","1974871000006118","Conditions, operations and procedures","Mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder","Current smoker",,,,,,1,1
+"1974911000006115",1,"EMISICD10|F1772","","1974911000006104","1974911000006115","Conditions, operations and procedures","Mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder","Current smoker",,,,,,1,1
+"1974931000006114",1,"EMISICD10|F1773","","1974931000006105","1974931000006114","Conditions, operations and procedures","Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia","Current smoker",,,,,,1,1
+"1974961000006117",1,"EMISICD10|F1774","","1974961000006101","1974961000006117","Conditions, operations and procedures","Mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment","Current smoker",,,,,,1,1
+"1974981000006110",1,"EMISICD10|F1775","","1974981000006106","1974981000006110","Conditions, operations and procedures","Mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder","Current smoker",,,,,,1,1
+"303501000000115",2000,"8CAg","8CAg.00","200221000000105","303501000000115","Conditions, operations and procedures","Smoking cessation advice provided by community pharmacist","Current smoker",,,,,,1,1
+"8063181000006116",5000,"^ESCTWA806318","","203191000000107","310341000000119","Personal Health and Social","Wants to stop smoking","Current smoker",,,,,,1,1
+"4835491000006116",2,"^ESCTFE483549","","206154006","2965837017","Conditions, operations and procedures","Fetal or neonatal effect of maternal use of tobacco","Current smoker",,,,,,1,1
+"316079016",3,"Q040","Q040.00","206154006","316079016","Conditions, operations and procedures","Fetus and newborn affected by maternal use of tobacco","Current smoker",,,,,,1,1
+"324597019",70,"SMC","SMC..00","212899006","324597019","Conditions, operations and procedures","Toxic effect of tobacco and nicotine","Current smoker",,,,,,1,1
+"818061000006111",10000000,"6791","6791.00","225323000","2575784012","Personal Health and Social","Smoking cessation education","Current smoker",,,,,,1,1
+"4939241000006115",10,"^ESCTAD493924","","225323000","2693470012","Personal Health and Social","Advice on effects of smoking on health","Current smoker",,,,,,1,1
+"4939251000006118",6000,"^ESCTAD493925","","225323000","2695629019","Personal Health and Social","Advice on smoking","Current smoker",,,,,,1,1
+"338608011",40000000,"8CAL","8CAL.00","225323000","338608011","Personal Health and Social","Smoking cessation advice","Current smoker",,,,,,1,1
+"4939261000006116",10000,"^ESCTSM493926","","225324006","2575785013","Personal Health and Social","Smoking effects education","Current smoker",,,,,,1,1
+"936011000006114",500000,"67H1","67H1.00","225324006","338609015","Personal Health and Social","Advice on effects of smoking on health","Current smoker",,,,,,1,1
+"4948531000006116",5,"^ESCTSM494853","","225934006","339459013","Personal Health and Social","Smokes in bed","Current smoker",,,,,,1,1
+"344793011",800000,"137X","137X.00","230056004","344793011","Personal Health and Social","Cigarette consumption","Current smoker",,,,,,1,1
+"344794017",30000,"137Y","137Y.00","230057008","344794017","Personal Health and Social","Cigar consumption","Current smoker",,,,,,1,1
+"344795016",7000,"137a","137a.00","230058003","344795016","Personal Health and Social","Pipe tobacco consumption","Current smoker",,,,,,1,1
+"5003141000006118",2,"^ESCTTR500314","","230059006","344796015","Personal Health and Social","Trivial cigarette smoker","Current smoker",,,,,,1,1
+"11904991000006116",2000,"^ESCT1190499","","230059006","344797012","Personal Health and Social","Occasional cigarette smoker","Current smoker",,,,,,1,1
+"5003151000006116",2000,"^ESCTLI500315","","230060001","344798019","Personal Health and Social","Light cigarette smoker","Current smoker",,,,,,1,1
+"5003161000006119",1000,"^ESCTMO500316","","230062009","344801013","Personal Health and Social","Moderate cigarette smoker","Current smoker",,,,,,1,1
+"5003171000006114",1000,"^ESCTHE500317","","230063004","344802018","Personal Health and Social","Heavy cigarette smoker","Current smoker",,,,,,1,1
+"5003181000006112",50,"^ESCTVE500318","","230064005","344803011","Personal Health and Social","Very heavy cigarette smoker","Current smoker",,,,,,1,1
+"5003191000006110",20,"^ESCTCH500319","","230065006","344804017","Personal Health and Social","Chain smoker","Current smoker",,,,,,1,1
+"5074201000006119",7,"^ESCTSM507420","","235033006","352240019","Unset","Smokers keratosis","Current smoker",,,,,,1,1
+"8012751000006116",3000,"^ESCTDI801275","","25261000000107","2155321000000119","Administration, documents and attachments","Did not attend smoking cessation clinic","Current smoker",,,,,,1,1
+"62881000000117",200000,"9N4M","9N4M.00","25261000000107","62881000000117","Administration, documents and attachments","DNA - Did not attend smoking cessation clinic","Current smoker",,,,,,1,1
+"5495901000006112",5,"^ESCTAM549590","","266918002","1225107019","Personal Health and Social","Amount and type of tobacco smoked","Current smoker",,,,,,1,1
+"102921000006112",2000000,"137","137..00","266918002","397730015","Personal Health and Social","Tobacco smoking consumption","Current smoker",,,,,,1,1
+"137721000006115",70000,"137-1","137..11","266918002","397730015","Personal Health and Social","Smoker - amount smoked","Current smoker",,,,,,1,1
+"250387019",70000,"137Z","137Z.00","266918002","397730015","Personal Health and Social","Tobacco consumption NOS","Current smoker",,,,,,1,1
+"5495941000006114",30,"^ESCTOC549594","","266920004","397733018","Personal Health and Social","Occasional smoker","Current smoker",,,,,,1,1
+"5495951000006111",20,"^ESCTOC549595","","266920004","397734012","Personal Health and Social","Occasional cigarette smoker (less than one cigarette/day)","Current smoker",,,,,,1,1
+"88471000006112",600000,"1372","1372.00","266920004","397735013","Personal Health and Social","Trivial cigarette smoker (less than one cigarette/day)","Current smoker",,,,,,1,1
+"5496021000006114",400,"^ESCTTO549602","","266927001","397743015","Personal Health and Social","Tobacco smoking consumption unknown","Current smoker",,,,,,1,1
+"2669652019",100000,"137Q","137Q.00","266929003","2669652019","Personal Health and Social","Smoking started","Current smoker",,,,,,1,1
+"5553641000006116",1,"^ESCTOC555364","","273657002","409204012","Unset","Occasions for smoking scale","Current smoker",,,,,,1,1
+"5555231000006111",1,"^ESCTRE555523","","273738001","409335016","Unset","Reasons for smoking scale","Current smoker",,,,,,1,1
+"295951010",100,"Eu17","Eu17.00","30310000","50736017","Conditions, operations and procedures","Nicotine-induced organic mental disorder","Current smoker",,,,,,1,1
+"397671000006112",2,"Eu170","Eu17000","30310000","50736017","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: acute intoxication","Current smoker",,,,,,1,1
+"397981000006119",70,"Eu172","Eu17200","30310000","50736017","Conditions, operations and procedures","[X]Mental and behav dis due to use tobacco: dependence syndr","Current smoker",,,,,,1,1
+"397681000006110",8,"Eu175","Eu17500","30310000","50736017","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: psychotic disorder","Current smoker",,,,,,1,1
+"397971000006117",4,"Eu176","Eu17600","30310000","50736017","Conditions, operations and procedures","[X]Mental and behav dis due to use tobacco: amnesic syndrome","Current smoker",,,,,,1,1
+"397181000006117",1,"Eu177","Eu17700","30310000","50736017","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: residual and late-onset psychotic disorder","Current smoker",,,,,,1,1
+"397271000006110",7,"Eu17y","Eu17y00","30310000","50736017","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: other mental and behavioural disorders","Current smoker",,,,,,1,1
+"397461000006119",7,"Eu17z","Eu17z00","30310000","50736017","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder","Current smoker",,,,,,1,1
+"137791000006118",10000,"137Q-1","137Q.11","308438006","2670126018","Personal Health and Social","Smoking restarted","Current smoker",,,,,,1,1
+"2670126018",20000,"137e","137e.00","308438006","2670126018","Personal Health and Social","Smoking restarted","Current smoker",,,,,,1,1
+"6047151000006118",4,"^ESCTTO604715","","314538009","458913015","Unset","Tobacco related optic neuropathy","Current smoker",,,,,,1,1
+"459722017",800000,"8HTK","8HTK.00","315232003","459722017","Referral","Referral to stop-smoking clinic","Current smoker",,,,,,1,1
+"6282371000006112",1,"^ESCTTO628237","","365982000","489484014","Unset","Tobacco smoking consumption - finding","Current smoker",,,,,,1,1
+"1704561000006112",1000,"9kf1","9kf1.00","375851000000108","739301000000115","Administration, documents and attachments","Referred for chronic obstructive pulmonary disease structured smoking assessment","Current smoker",,,,,,1,1
+"1704551000006110",80,"9kf1-1","9kf1.11","375851000000108","739301000000115","Administration, documents and attachments","Referred for COPD structured smoking assessment","Current smoker",,,,,,1,1
+"1704571000006117",1000,"9kf2","9kf2.00","375911000000102","739421000000116","Administration, documents and attachments","Chronic obstructive pulmonary disease structured smoking assessment declined","Current smoker",,,,,,1,1
+"1704581000006119",300,"9kf2-1","9kf2.11","375911000000102","739421000000116","Administration, documents and attachments","COPD structured smoking assessment declined","Current smoker",,,,,,1,1
+"1484933010",400000,"13p0","13p0.00","390901002","1484933010","Personal Health and Social","Negotiated date for cessation of smoking","Current smoker",,,,,,1,1
+"1488576014",700000,"137c","137c.00","394871007","1488576014","Personal Health and Social","Thinking about stopping smoking","Current smoker",,,,,,1,1
+"1488577017",400000,"137b","137b.00","394872000","1488577017","Personal Health and Social","Ready to stop smoking","Current smoker",,,,,,1,1
+"1488578010",900000,"137d","137d.00","394873005","1488578010","Personal Health and Social","Not interested in stopping smoking","Current smoker",,,,,,1,1
+"1489355012",1000000,"8H7i","8H7i.00","395700008","1489355012","Referral","Referral to smoking cessation advisor","Current smoker",,,,,,1,1
+"3142921000006110",20,"^ESCTTO314292","","39953003","66552013","Unset","Tobacco","Current smoker",,,,,,1,1
+"1780273014",1000000,"9N2k","9N2k.00","401068004","1780273014","Administration, documents and attachments","Seen by smoking cessation advisor","Current smoker",,,,,,1,1
+"1780360012",20000,"137f","137f.00","401159003","1780360012","Personal Health and Social","Reason for restarting smoking","Current smoker",,,,,,1,1
+"1773560017",300000,"13p5","13p5.00","401160008","1773560017","Personal Health and Social","Smoking cessation programme start date","Current smoker",,,,,,1,1
+"2474719011",100000,"137h","137h.00","413173009","2474719011","Personal Health and Social","Minutes from waking to first tobacco consumption","Current smoker",,,,,,1,1
+"397733018",200000,"1372-1","1372.11","428041000124106","2717161000000119","Personal Health and Social","Occasional smoker","Current smoker",,,,,,1,1
+"8153371000006117",400,"^ESCTOC815337","","428041000124106","3308893017","Personal Health and Social","Occasional tobacco smoker","Current smoker",,,,,,1,1
+"1592611000000110",60000,"137m","137m.00","446172000","2882460017","Personal Health and Social","Failed attempt to stop smoking","Current smoker",,,,,,1,1
+"7375991000006118",2000,"^ESCTSM737599","","449868002","2912728015","Personal Health and Social","Smokes tobacco daily","Current smoker",,,,,,1,1
+"78013015",8000,"H3101","H310100","46802002","78013015","Conditions, operations and procedures","Smokers' cough","Current smoker",,,,,,1,1
+"1715591000006117",100000,"8HkQ","8HkQ.00","505281000000106","1122921000000113","Referral","Referral to National Health Service stop smoking service","Current smoker",,,,,,1,1
+"8190531000006112",1,"^ESCTRE819053","","505281000000106","1133211000000119","Referral","Referral to NHS (National Health Service) stop smoking service","Current smoker",,,,,,1,1
+"1714541000006110",400,"9ko","9ko..00","505651000000103","1152111000000118","Administration, documents and attachments","Current smoker annual review - enhanced services admin","Current smoker",,,,,,1,1
+"1152111000000118",30000,"9ko-1","9ko..11","505651000000103","1152111000000118","Administration, documents and attachments","Current smoker annual review","Current smoker",,,,,,1,1
+"1125741000000111",200000,"67H6","67H6.00","506491000000102","1125741000000111","Personal Health and Social","Brief intervention for smoking cessation","Current smoker",,,,,,1,1
+"8196151000006112",80,"^ESCTSM819615","","521721000000109","1165101000000117","Unset","Smoking cessation leaflet given","Current smoker",,,,,,1,1
+"1176421000000118",900000,"8IAj","8IAj.00","527151000000107","1176421000000118","Conditions, operations and procedures","Smoking cessation advice declined","Current smoker",,,,,,1,1
+"3419101000006116",300,"^ESCTMO341910","","56578002","94089011","Personal Health and Social","Moderate smoker (20 or less per day)","Current smoker",,,,,,1,1
+"3422221000006116",100,"^ESCTHE342222","","56771006","94417014","Personal Health and Social","Heavy smoker (over 20 per day)","Current smoker",,,,,,1,1
+"3430571000006116",1,"^ESCTTO343057","","57264008","95243015","Unset","Tobacco","Current smoker",,,,,,1,1
+"99639019",400000,"137J","137J.00","59978006","99639019","Personal Health and Social","Cigar smoker","Current smoker",,,,,,1,1
+"604961000006114",30000,"EGTON1025","","604961000006105","604961000006114","Personal Health and Social","Current Smoker NOS","Current smoker",,,,,,1,1
+"108938018",20000000,"137P","137P.00","65568007","108938018","Personal Health and Social","Cigarette smoker","Current smoker",,,,,,1,1
+"2982426011",2000,"ESCTPR3","","699033005","2982426011","Administration, documents and attachments","Provision of smoking cessation leaflet","Current smoker",,,,,,1,1
+"7559591000006110",70,"^ESCTTO755959","","702388001","2995195017","Unset","Tobacco use cessation education","Current smoker",,,,,,1,1
+"7650811000006116",1,"^ESCTAS765081","","709507008","3039829017","Unset","Assessment of readiness for smoking cessation","Current smoker",,,,,,1,1
+"461114016",500,"ZV6D8","ZV6D800","711028002","3047058010","Conditions, operations and procedures","Counselling about tobacco use","Current smoker",,,,,,1,1
+"7696001000006118",40,"^ESCTPA769600","","712829007","3285644014","Unset","Patient request for smoking cessation information","Current smoker",,,,,,1,1
+"1563081000000115",20000,"13p50","13p5000","712971000000108","1563081000000115","Personal Health and Social","Practice based smoking cessation programme start date","Current smoker",,,,,,1,1
+"8221521000006111",5000,"^ESCTSM822152","","720401000000103","1574781000000112","Unset","Smoking cessation","Current smoker",,,,,,1,1
+"7832501000006113",3,"^ESCTCI783250","","722496004","3332494012","Unset","Cigarette","Current smoker",,,,,,1,1
+"7832511000006111",1,"^ESCTCI783251","","722497008","3332496014","Unset","Cigar","Current smoker",,,,,,1,1
+"397911000006114",100,"Eu171","Eu17100","724697004","3445165019","Conditions, operations and procedures","[X]Mental and behavioural disorders due to use of tobacco: harmful use","Current smoker",,,,,,1,1
+"7859781000006116",6,"^ESCTHA785978","","724697004","3445165019","Conditions, operations and procedures","Harmful pattern of use of nicotine","Current smoker",,,,,,1,1
+"1709641000000115",200000,"9NS02","9NS0200","767641000000109","1709641000000115","Administration, documents and attachments","Referral for smoking cessation service offered","Current smoker",,,,,,1,1
+"13494621000006118",9,"^ESCT1349462","","770729006","3702282012","Referral","Referral for brief intervention for smoking cessation","Current smoker",,,,,,1,1
+"13499671000006118",3000,"^ESCT1349967","","771155005","3704611015","Personal Health and Social","Brief intervention for smoking cessation","Current smoker",,,,,,1,1
+"128130017",900000,"137P-1","137P.11","77176002","128130017","Personal Health and Social","Smoker","Current smoker",,,,,,1,1
+"503483019",10000000,"137R","137R.00","77176002","503483019","Personal Health and Social","Current smoker","Current smoker",,,,,,1,1
+"1750931000000118",100000,"8CdB","8CdB.00","783011000000105","1750931000000118","Conditions, operations and procedures","Stop smoking service opportunity signposted","Current smoker",,,,,,1,1
+"1751721000000113",30000,"9OOB","9OOB.00","783381000000101","1751721000000113","Administration, documents and attachments","Stop smoking invitation short message service text message","Current smoker",,,,,,1,1
+"1785671000006116",80000,"9OOB0","9OOB000","783401000000101","1751761000000117","Administration, documents and attachments","Stop smoking invitation first short message service text message","Current smoker",,,,,,1,1
+"1785681000006118",6000,"9OOB1","9OOB100","783441000000103","1751861000000114","Administration, documents and attachments","Stop smoking invitation second short message service text message","Current smoker",,,,,,1,1
+"1785691000006115",3000,"9OOB2","9OOB200","783481000000106","1751951000000118","Administration, documents and attachments","Stop smoking invitation third short message service text message","Current smoker",,,,,,1,1
+"2141561000000115",300000,"8IEM","8IEM.00","822591000000108","2141561000000115","Conditions, operations and procedures","Smoking cessation drug therapy declined","Current smoker",,,,,,1,1
+"136515019",200000,"137H","137H.00","82302008","136515019","Personal Health and Social","Pipe smoker","Current smoker",,,,,,1,1
+"3874641000006110",1,"^ESCTPI387464","","84498003","140113010","Unset","Pipe smoking tobacco","Current smoker",,,,,,1,1
+"852111000006118",1000,"EMISQGR1","","852111000006102","852111000006118","Personal Health and Social","Gradual smoking reduction","Current smoker",,,,,,1,1
+"852981000006111",200,"EGTON1024","","852981000006107","852981000006111","Personal Health and Social","Rolls own cigarettes","Current smoker",,,,,,1,1
+"854021000006115",40000,"EGTON321","","854021000006104","854021000006115","Personal Health and Social","Cigarette smoker","Current smoker",,,,,,1,1
+"854071000006119",10000,"EGTON326","","854071000006103","854071000006119","Personal Health and Social","Current smoker","Current smoker",,,,,,1,1
+"854961000006110",4000,"EGTONGR11","","854961000006106","854961000006110","Diagnostics","Grade B light smoker (1-10/day)","Current smoker",,,,,,1,1
+"854981000006117",4000,"EGTONGR12","","854981000006101","854981000006117","Diagnostics","Grade C moderate smoker (11-20/day)","Current smoker",,,,,,1,1
+"855001000006114",2000,"EGTONGR13","","855001000006105","855001000006114","Diagnostics","Grade D heavy smoker (>20 Day)","Current smoker",,,,,,1,1
+"856371000006111",200000,"EGTONSM6","","856371000006107","856371000006111","Personal Health and Social","Smoking clinic","Current smoker",,,,,,1,1
+"8299271000006119",40,"^ESCTNU829927","","864091000000103","2234141000000111","Unset","Number of previous attempts to stop smoking","Current smoker",,,,,,1,1
+"2251871000000112",200000,"8IEo","8IEo.00","871641000000105","2251871000000112","Conditions, operations and procedures","Referral to smoking cessation service declined","Current smoker",,,,,,1,1
+"2251911000000114",70000,"8T08","8T08.00","871661000000106","2251911000000114","Conditions, operations and procedures","Referral to smoking cessation service","Current smoker",,,,,,1,1
+"295256013",1000,"E2510","E251000","89765005","148820017","Conditions, operations and procedures","Tobacco dependence, unspecified","Current smoker",,,,,,1,1
+"3959111000006111",400,"^ESCTTO395911","","89765005","148820017","Conditions, operations and procedures","Tobacco dependence syndrome","Current smoker",,,,,,1,1
+"102951000006115",80000,"E251","E251.00","89765005","2951656017","Conditions, operations and procedures","Tobacco dependence","Current smoker",,,,,,1,1
+"295260011",500,"E251z","E251z00","89765005","2951656017","Conditions, operations and procedures","Tobacco dependence NOS","Current smoker",,,,,,1,1
+"903981000006117",30,"EMISQNO1","","903981000006101","903981000006117","Personal Health and Social","Not interested in stopping smoking","Current smoker",,,,,,1,1
+"904001000006111",30,"EMISQRE12","","904001000006107","904001000006111","Personal Health and Social","Ready to stop smoking","Current smoker",,,,,,1,1
+"904011000006114",70000,"EMISQSM9","","904011000006105","904011000006114","Administration, documents and attachments","Smoking cessation declaration signed by patient","Current smoker",,,,,,1,1
+"904021000006118",50000,"EMISQPR6","","904021000006102","904021000006118","Personal Health and Social","Previous smoking quit attempts","Current smoker",,,,,,1,1
+"904031000006115",7,"EMISQTH1","","904031000006104","904031000006115","Personal Health and Social","Thinking about stopping smoking","Current smoker",,,,,,1,1
+"904041000006113",20,"EMISQWA1","","904041000006109","904041000006113","Personal Health and Social","Waking time to first cigarette","Current smoker",,,,,,1,1
+"904121000006117",20000,"EMISQCO3","","904121000006101","904121000006117","Personal Health and Social","Carbon monoxide validation confirms smoker","Current smoker",,,,,,1,1
+"904181000006118",80000,"EMISQSM12","","904181000006102","904181000006118","Personal Health and Social","Smoking cessation counselling","Current smoker",,,,,,1,1
+"904231000006113",10000,"EMISQSM13","","904231000006109","904231000006113","Personal Health and Social","Smoking cessation counselling by telephone","Current smoker",,,,,,1,1
+"904241000006115",20000,"EMISQSM14","","904241000006104","904241000006115","Personal Health and Social","Smoking cessation counselling in person","Current smoker",,,,,,1,1
+"923201000006112",1,"PCNQPR2","","923201000006108","923201000006112","Procedure code","Pregnancy smoking advice","Current smoker",,,,,,1,1
+"923611000006113",9000,"PC0076","","923611000006109","923611000006113","Procedure code","Health ed. - smoking","Current smoker",,,,,,1,1
+"16588018",6,"J0364","J036400","9473008","511413011","Conditions, operations and procedures","Tobacco deposit on teeth","Current smoker",,,,,,1,1
+"961581000006114",3000,"EMISCSM1","","961581000006105","961581000006114","Symptoms and Findings","Smokes/uses tobacco products","Current smoker",,,,,,1,1
+"2462391000000119",30,"8IEM0","8IEM000","966971000000103","2462391000000119","Conditions, operations and procedures","Varenicline smoking cessation therapy declined","Current smoker",,,,,,1,1
+"2462431000000110",2000,"8B31G","8B31G00","966991000000104","2462431000000110","Conditions, operations and procedures","Varenicline smoking cessation therapy offered","Current smoker",,,,,,1,1
+"342443012",8000,"13cA","13cA.00","228377000","342443012","Personal Health and Social","Smokes drugs",,1,,,,,,
+"342444018",1000,"1V08","1V08.00","228378005","342444018","Symptoms and Findings","Smokes drugs in cigarette form",,1,,,,,,
+"342445017",100,"1V09","1V09.00","228379002","342445017","Symptoms and Findings","Smokes drugs through a pipe",,1,,,,,,
+"1888821000006112",10000,"EMISNQPR395","","1888821000006108","1888821000006112","Administration, documents and attachments","Primary carer current non-smoker",,,"Unexposed",,,,,
+"1899561000006114",60,"EMISNQMO109","","1899561000006105","1899561000006114","Obstetrics and Birth","Mother's smoking status at time of baby's birth - ex-smoker",,,"Unexposed",,,,,
+"1899581000006116",300,"EMISNQMO111","","1899581000006100","1899581000006116","Obstetrics and Birth","Mother's smoking status at time of baby's birth - never smoked",,,"Unexposed",,,,,
+"1911921000006115",90,"EMISNQCA1054","","1911921000006104","1911921000006115","Administration, documents and attachments","Carer's partner current non-smoker",,,"Unexposed",,,,,
+"459702016",300000,"137U","137U.00","315213009","459702016","Personal Health and Social","Not a passive smoker",,,"Unexposed",,,,,
+"1488589015",50000,"13WI","13WI.00","394885002","1488589015","Personal Health and Social","Parents do not smoke",,,"Unexposed",,,,,
+"1488666019",200000,"13WK","13WK.00","394964001","1488666019","Personal Health and Social","No smokers in the household",,,"Unexposed",,,,,
+"668811000000117",20000,"13WR","13WR.00","438618001","2792926016","Personal Health and Social","Mother does not smoke",,,"Unexposed",,,,,
+"7359661000006115",3000,"^ESCTTO735966","","448755007","2900140012","Unset","Tobacco smokefree home",,,"Unexposed",,,,,
+"7690211000006112",500,"^ESCTNO769021","","711563001","3079030019","Personal Health and Social","No known exposure to tobacco smoke",,,"Unexposed",,,,,
+"251156016",30000,"13WF1","13WF100","161077003","251156016","Personal Health and Social","Father smokes",,,"Exposed",,,,,
+"251157013",20000,"13WF2","13WF200","161078008","251157013","Personal Health and Social","Mother smokes",,,"Exposed",,,,,
+"251158015",10000,"13WF3","13WF300","161079000","251158015","Personal Health and Social","Both parents smoke",,,"Exposed",,,,,
+"251159011",200000,"13WF4","13WF400","161080002","251159011","Personal Health and Social","Passive smoking risk",,,"Exposed",,,,,
+"1888831000006110",2000,"EMISNQPR396","","1888831000006106","1888831000006110","Administration, documents and attachments","Primary carer current smoker",,,"Exposed",,,,,
+"1889671000006116",1,"EMISNQCH305","","1889671000006100","1889671000006116","Symptoms and Findings","Child 27-30 mth exam.- smoking cessation support provided",,,"Exposed",,,,,
+"1889681000006118",2,"EMISNQCH306","","1889681000006102","1889681000006118","Symptoms and Findings","Child 27-30 mth exam.- signpost to smoking cessation",,,"Exposed",,,,,
+"1889691000006115",1,"EMISNQCH307","","1889691000006104","1889691000006115","Symptoms and Findings","Child 27-30 mth exam. - discuss with smoking cessation service",,,"Exposed",,,,,
+"1889701000006115",1,"EMISNQCH308","","1889701000006104","1889701000006115","Symptoms and Findings","Child 27-30 mth exam. - requ. assist. from smoking cessation",,,"Exposed",,,,,
+"1889711000006117",6,"EMISNQCH309","","1889711000006101","1889711000006117","Symptoms and Findings","Child 27-30 mth exam. - refused smoking cessation service",,,"Exposed",,,,,
+"1899551000006112",200,"EMISNQMO108","","1899551000006108","1899551000006112","Obstetrics and Birth","Mother's smoking status at time of baby's birth - smoker",,,"Exposed",,,,,
+"1899571000006119",8,"EMISNQMO110","","1899571000006103","1899571000006119","Obstetrics and Birth","Mother's smoking status at time of baby's birth - passive smoker",,,"Exposed",,,,,
+"1911911000006111",50,"EMISNQCA1053","","1911911000006107","1911911000006111","Administration, documents and attachments","Carer's partner current smoker",,,"Exposed",,,,,
+"1811991000006111",30000,"67910","6791000","203551000000108","311071000000119","Personal Health and Social","Health education - parental smoking",,,"Exposed",,,,,
+"4980981000006118",50,"^ESCTEX498098","","228523000","342612014","Personal Health and Social","Exposed to tobacco smoke at work",,,"Exposed",,,,,
+"342613016",10000,"137I0","137I000","228524006","342613016","Personal Health and Social","Exposed to tobacco smoke at home",,,"Exposed",,,,,
+"4981001000006119",60,"^ESCTEX498100","","228525007","342614010","Personal Health and Social","Exposed to tobacco smoke in public places",,,"Exposed",,,,,
+"411033014",10000,"13WF-1","13WF.11","275105001","411033014","Personal Health and Social","Smoker in the family",,,"Exposed",,,,,
+"3199011000006119",90,"^ESCTET319901","","43381005","493586015","Personal Health and Social","ETS - Exposed to tobacco smoke",,,"Exposed",,,,,
+"3199021000006110",30,"^ESCTEX319902","","43381005","493587012","Personal Health and Social","Exposed to environmental tobacco smoke",,,"Exposed",,,,,
+"3199031000006113",60,"^ESCTEX319903","","43381005","493588019","Personal Health and Social","Exposed to tobacco smoke",,,"Exposed",,,,,
+"72373013",300000,"137I","137I.00","43381005","72373013","Personal Health and Social","Passive smoker",,,"Exposed",,,,,
+"406164016",6000,"13WF","13WF.00","443877004","2838785018","Family history","Family history of smoking",,,"Exposed",,,,,
+"460416018",20,"ZV1A1","ZV1A100","443877004","2838785018","Family history","[V]Family history of tobacco abuse",,,"Exposed",,,,,
+"7515821000006118",600,"^ESCTHI751582","","699009004","2982210013","Personal Health and Social","History of exposure to second hand smoke",,,"Exposed",,,,,
+"7700161000006110",1,"^ESCTAT770016","","713142003","3288192014","Unset","At risk from passive smoking",,,"Exposed",,,,,
+"7714881000006116",70,"^ESCTEN771488","","714151003","3298642014","Personal Health and Social","Environmental tobacco smoke exposure",,,"Exposed",,,,,
+"8223631000006112",30,"^ESCTPA822363","","722451000000101","1579911000000119","Unset","Passive smoking",,,"Exposed",,,,,
+"8029921000006110",100,"^ESCTSM802992","","94151000119101","3333207019","Personal Health and Social","Smoker in household",,,"Exposed",,,,,
+"8029911000006119",8000,"^ESCTSM802991","","94151000119101","3333208012","Personal Health and Social","Smoker in home",,,"Exposed",,,,,
+"981841000006115",1000,"EMISCEX15","","981841000006104","981841000006115","Symptoms and Findings","Exposure to cigarette/cigar smoke",,,"Exposed",,,,,
+"2336091000000117",7000,"1PD","1PD..00","908781000000104","2336091000000117","Symptoms and Findings","Ex user of electronic cigarette",,,,"Ex-vaper",,,,
+"1879431000006110",20,"EMISNQUS72","","1879431000006106","1879431000006110","Symptoms and Findings","User of electronic cigarette",,,,"Current vaper",,,,
+"7832521000006115",40,"^ESCTEL783252","","722498003","3332500011","Unset","Electronic cigarette",,,,"Current vaper",,,,
+"7832541000006110",2,"^ESCTEC783254","","722498003","3332502015","Unset","e-cigarette",,,,"Current vaper",,,,
+"2265711000000117",200000,"1PC","1PC..00","722499006","3332504019","Symptoms and Findings","Electronic cigarette user",,,,"Current vaper",,,,
+"7832561000006114",3,"^ESCTEC783256","","722499006","3332505018","Symptoms and Findings","e-cigarette user",,,,"Current vaper",,,,
+"3513803011",1,"^ESCT1165263","","735238003","3513803011","Unset","Electronic cigarette liquid",,,,"Current vaper",,,,
+"13653481000006112",1,"^ESCT1365348","","785889008","3769371014","Unset","Nicotine-filled electronic cigarette user",,,,"Current vaper",,,,
+"13653491000006110",3,"^ESCT1365349","","785889008","3769372019","Unset","Nicotine-filled electronic cigarette vaper",,,,"Current vaper",,,,
+"13653501000006119",9,"^ESCT1365350","","785889008","3773975015","Unset","Vaper with nicotine",,,,"Current vaper",,,,
+"4980751000006111",1,"^ESCTDO498075","","228501004","342590011","Unset","Does not use moist powdered tobacco",,,,,"Never smokeless tobacco",,,
+"4980861000006115",1,"^ESCTDO498086","","228511006","342600010","Unset","Does not chew tobacco",,,,,"Never smokeless tobacco",,,
+"4980871000006110",8,"^ESCTNE498087","","228512004","342601014","Unset","Never chewed tobacco",,,,,"Never smokeless tobacco",,,
+"342602019",80,"137i","137i.00","228513009","342602019","Personal Health and Social","Ex-tobacco chewer",,,,,"Ex smokeless tobacco",,,
+"3513101011",1,"^ESCT1165101","","735112005","3513101011","Personal Health and Social","Date ceased using moist tobacco",,,,,"Ex smokeless tobacco",,,
+"4980741000006114",2,"^ESCTMO498074","","228500003","342589019","Unset","Moist tobacco consumption",,,,,"Current smokeless tobacco",,,
+"4980781000006115",4,"^ESCTUS498078","","228504007","342593013","Unset","User of moist powdered tobacco",,,,,"Current smokeless tobacco",,,
+"504769011",30000,"137W","137W.00","81703003","504769011","Personal Health and Social","Chews tobacco",,,,,"Current smokeless tobacco",,,
+"4074561000006112",10,"^ESCTTO407456","","102407002","165611018","Unset","Tobacco smoke",,,,,,,1,
+"4074571000006117",100,"^ESCTCI407457","","102408007","165612013","Unset","Cigarette smoke",,,,,,,1,
+"12490821000006119",7,"^ESCT1249082","","1087431000000102","2724161000000117","Unset","Refusal to give smoking status",,,,,,,1,
+"754761000000119",200000,"137k","137k.00","1098881000000103","2751171000000114","Personal Health and Social","Declined to give smoking status",,,,,,,1,
+"137751000006112",700,"EGTONSM2","","137751000006108","137751000006112","Personal Health and Social","Smoking Age",,,,,,,1,
+"137771000006119",200000,"EGTONSM3","","137771000006103","137771000006119","Personal Health and Social","Smoking Age Started",,,,,,,1,
+"137811000006119",500000,"EGTON320","","137811000006103","137811000006119","Personal Health and Social","Smoking Status",,,,,,,1,
+"250370016",100000,"137E","137E.00","160614008","250370016","Personal Health and Social","Tobacco consumption unknown",,,,,,,1,
+"16581000006111",70000,"EMISOTS1","","16581000006107","16581000006111","Personal Health and Social","Other smoking information",,,,,,,1,
+"103051000006114",8000,"6893","6893.00","171209009","265302011","Health management, screening and monitoring","Tobacco usage screen",,,,,,,1,
+"103061000006111",10000,"68T","68T..00","171209009","265302011","Health management, screening and monitoring","Tobacco usage screening",,,,,,,1,
+"1746211000006111",100,"EMISNQSM8","","1746211000006107","1746211000006111","Personal Health and Social","Smoking status at 12 weeks",,,,,,,1,
+"1823811000006115",20,"EMISNQSM15","","1823811000006104","1823811000006115","Administration, documents and attachments","Smoking cessation 12 week follow up",,,,,,,1,
+"1825071000006116",100,"EMISNQSM16","","1825071000006100","1825071000006116","Administration, documents and attachments","Smoking cessation 12 week F/U not completed",,,,,,,1,
+"1825081000006118",1000,"EMISNQSM17","","1825081000006102","1825081000006118","Administration, documents and attachments","Smoking cessation 12 week F/U completed",,,,,,,1,
+"1833971000006116",500,"EMISNQST27","","1833971000006100","1833971000006116","Administration, documents and attachments","Stop Smoking satisfaction questionnaire given",,,,,,,1,
+"498831000006118",400000,"9OO1","9OO1.00","185789006","285791018","Administration, documents and attachments","Attends stop smoking monitoring",,,,,,,1,
+"12452041000006114",1,"^ESCT1245204","","185790002","285792013","Unset","Refuses stop smoking monitor",,,,,,,1,
+"285793015",10000,"9OO3","9OO3.00","185791003","285793015","Administration, documents and attachments","Stop smoking monitor default",,,,,,,1,
+"128311000006112",100000,"9OO4","9OO4.00","185792005","285794014","Administration, documents and attachments","Stop smoking monitoring first letter",,,,,,,1,
+"128321000006116",10000,"9OO5","9OO5.00","185793000","285795010","Administration, documents and attachments","Stop smoking monitoring second letter",,,,,,,1,
+"128331000006118",4000,"9OO6","9OO6.00","185794006","285796011","Administration, documents and attachments","Stop smoking monitoring third letter",,,,,,,1,
+"128371000006115",90000,"9OO7","9OO7.00","185795007","285797019","Administration, documents and attachments","Stop smoking monitoring verbal invite",,,,,,,1,
+"128361000006110",20000,"9OO8","9OO8.00","185796008","285798012","Administration, documents and attachments","Stop smoking monitoring telephone invite",,,,,,,1,
+"285805010",400,"9OO9","9OO9.00","185798009","285805010","Administration, documents and attachments","Stop smoking monitoring delete",,,,,,,1,
+"128381000006117",200000,"9OOA","9OOA.00","185799001","285806011","Administration, documents and attachments","Stop smoking monitoring check done",,,,,,,1,
+"1873511000006118",10,"EMISNQCA1034","","1873511000006102","1873511000006118","Administration, documents and attachments","Care contact service: Smoking/substance cessation/interven prog.",,,,,,,1,
+"1979491000006115",10000,"EMISNQSM20","","1979491000006104","1979491000006115","Referral","Smoking cessation follow-up",,,,,,,1,
+"1809131000006111",500,"EMISNQTO12","","228487000","1809131000006111","Personal Health and Social","Total time smoked",,,,,,,1,
+"342574011",400000,"137n","137n.00","228487000","342574011","Personal Health and Social","Total time smoked",,,,,,,1,
+"4980581000006110",3000,"^ESCTAG498058","","228488005","342575012","Unset","Age at starting smoking",,,,,,,1,
+"1817431000006112",2000,"ZV4D7","ZV4D700","229819007","344513013","Conditions, operations and procedures","Tobacco use and exposure",,,,,,,1,
+"5979541000006112",300,"^ESCTSM597954","","308511002","451871018","Unset","Smoking monitoring call",,,,,,,1,
+"5979551000006114",10000,"^ESCTSM597955","","308512009","451872013","Health management, screening and monitoring","Smoking monitoring status",,,,,,,1,
+"5999811000006115",100000,"^ESCTSM599981","","310429001","454002012","Administration, documents and attachments","Smoking monitoring invitation",,,,,,,1,
+"460127014",700000,"388B","388B.00","315609007","460127014","Diagnostics","Pack years",,,,,,1,1,
+"6282331000006114",50000,"^ESCTTO628233","","365981007","1206652017","Personal Health and Social","Tobacco smoking behaviour - finding",,,,,,,1,
+"6282351000006119",100,"^ESCTSM628235","","365981007","1490791014","Personal Health and Social","Smoking",,,,,,,1,
+"736241000000116",40000,"9kc","9kc..00","374361000000100","1152641000000112","Administration, documents and attachments","Smoking cessation enhanced services administration",,,,,,,1,
+"1704491000006115",3000,"9kc0","9kc0.00","374391000000106","1152711000000117","Administration, documents and attachments","Smoking cessation enhanced services administration monitoring template completed",,,,,,,1,
+"1741641000006117",700,"9kc0-1","9kc0.11","374391000000106","1152711000000117","Administration, documents and attachments","Smoking cessation ESA monitoring template completed",,,,,,,1,
+"11928911000006113",10000,"^ESCT1192891","","382911000000101","754761000000119","Unset","Refusal to give smoking status",,,,,,,1,
+"1484932017",200000,"13p","13p..00","390900001","1484932017","Personal Health and Social","Smoking cessation milestones",,,,,,,1,
+"1484934016",200000,"13p1","13p1.00","390902009","1484934016","Personal Health and Social","Smoking status at 4 weeks",,,,,,,1,
+"1484935015",40000,"13p2","13p2.00","390903004","1484935015","Personal Health and Social","Smoking status between 4 and 52 weeks",,,,,,,1,
+"1484936019",4000,"13p3","13p3.00","390904005","1484936019","Personal Health and Social","Smoking status at 52 weeks",,,,,,,1,
+"1780396011",400000,"137g","137g.00","401201003","1780396011","Personal Health and Social","Cigarette pack-years",,,,,,1,1,
+"2159962015",9000,"8I6H","8I6H.00","408398007","2159962015","Conditions, operations and procedures","Smoking review not indicated",,,,,,,1,
+"1123541000000118",10000,"8HBM","8HBM.00","505581000000108","1123541000000118","Referral","Stop smoking face to face follow-up",,,,,,,1,
+"3544141000006118",60,"^ESCTSM354414","","64197008","106720017","Unset","Smoke",,,,,,,1,
+"21681000000118",200000,"9OO","9OO..00","714001000000108","1565241000000115","Administration, documents and attachments","Anti-smoking monitoring admin.",,,,,,,1,
+"21691000000116",100000,"9OO-2","9OO..12","714001000000108","1565241000000115","Administration, documents and attachments","Anti-smoking monitoring administration",,,,,,,1,
+"16261000000110",60000,"9OOZ","9OOZ.00","714001000000108","1567181000000113","Administration, documents and attachments","Stop smoking monitoring administration",,,,,,,1,
+"1694421000006112",2000,"9OO-z366","","714001000000108","1694421000006112","Administration, documents and attachments","Stop smoking monitoring admin.",,,,,,,1,
+"25281000000119",30000,"9OO-1","9OO..11","714021000000104","1565261000000119","Administration, documents and attachments","Stop smoking clinic administration",,,,,,,1,
+"316511000000113",90000,"9hG0","9hG0.00","716391000000109","1568941000000118","Administration, documents and attachments","Excepted from smoking quality indicators - patient unsuitable",,,,,,,1,
+"305331000000119",7000,"9hG","9hG..00","717761000000101","1570291000000113","Administration, documents and attachments","Exception reporting - smoking quality indicators",,,,,,,1,
+"316541000000114",200000,"9hG1","9hG1.00","717771000000108","1570301000000112","Administration, documents and attachments","Excepted from smoking quality indicators - informed dissent",,,,,,,1,
+"1755201000006117",1000,"9NdV","9NdV.00","750821000000109","1651651000000115","Administration, documents and attachments","Consent given for follow-up evaluation after smoking cessation intervention",,,,,,,1,
+"1651711000000113",40000,"9NdW","9NdW.00","750851000000104","1651711000000113","Administration, documents and attachments","Consent given for smoking cessation data sharing",,,,,,,1,
+"1755231000006113",300,"9NdY","9NdY.00","751101000000101","1652471000000119","Administration, documents and attachments","Declined consent for follow-up evaluation after smoking cessation intervention",,,,,,,1,
+"1653781000000119",4000,"9NdZ","9NdZ.00","751661000000106","1653781000000119","Administration, documents and attachments","Declined consent for smoking cessation data sharing",,,,,,,1,
+"1662911000000114",40000,"9Ndf","9Ndf.00","755721000000107","1662911000000114","Administration, documents and attachments","Consent given for follow-up by smoking cessation team",,,,,,,1,
+"1662951000000113",200000,"9Ndg","9Ndg.00","755741000000100","1662951000000113","Administration, documents and attachments","Declined consent for follow-up by smoking cessation team",,,,,,,1,
+"12024741000006113",1,"^ESCT1202474","","765000002","3656018015","Unset","Monitoring of smoking cessation therapy",,,,,,,1,
+"285792013",50000,"9OO2","9OO2.00","765001003","3656021018","Administration, documents and attachments","Monitoring of smoking cessation therapy refused",,,,,,,1,
+"1708051000000119",2000,"13p7","13p7.00","766931000000106","1708051000000119","Personal Health and Social","Smoking status at 12 weeks",,,,,,,1,
+"1716141000000117",10000,"13p8","13p8.00","768971000000109","1716141000000117","Personal Health and Social","Lost to smoking cessation follow-up",,,,,,,1,
+"13619901000006115",400,"^ESCT1361990","","782516008","3754334012","Personal Health and Social","Number of calculated smoking pack years",,,,,,1,1,
+"2203381000000113",2000,"8HBP","8HBP.00","850331000000104","2203381000000113","Referral","Smoking cessation 12 week follow-up",,,,,,,1,
+"852131000006112",70000,"EMISQSM18","","852131000006108","852131000006112","Personal Health and Social","Smoking cessation-practice nurse support",,,,,,,1,
+"904051000006110",20000,"EMISQCO1","","904051000006106","904051000006110","Personal Health and Social","Carbon monoxide validation of smoking status",,,,,,,1,
+"904071000006117",10000,"EMISQSM2","","904071000006101","904071000006117","Administration, documents and attachments","Smoking cessation 4 week follow up",,,,,,,1,
+"904081000006119",1000,"EMISQSM3","","904081000006103","904081000006119","Administration, documents and attachments","Smoking cessation 52 week follow up",,,,,,,1,
+"904141000006112",4000,"EMISQSM4","","904141000006108","904141000006112","Administration, documents and attachments","Smoking cessation 4 week F/U not completed",,,,,,,1,
+"904151000006114",20000,"EMISQSM5","","904151000006105","904151000006114","Administration, documents and attachments","Smoking cessation 4 week F/U completed",,,,,,,1,
+"904161000006111",2000,"EMISQSM6","","904161000006107","904161000006111","Administration, documents and attachments","Smoking cessation 52 week F/U completed",,,,,,,1,
+"904171000006116",200,"EMISQSM7","","904171000006100","904171000006116","Administration, documents and attachments","Smoking cessation 52 week F/U not completed",,,,,,,1,
+"904191000006115",10000,"EMISQSM10","","904191000006104","904191000006115","Diagnostics","Smoking cessation motivation score",,,,,,,1,
+"904211000006119",20,"EMISQSM16","","904211000006103","904211000006119","Diagnostics","Smoking cessation service patient satisfaction score",,,,,,,1,

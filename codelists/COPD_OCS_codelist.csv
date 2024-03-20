@@ -1,0 +1,50 @@
+"prodcodeid","dmdid","Termfromemis","Productname","Routeofadministration","Drugsubstancename","Substancestrength","bnfcode","BNFChapter","DrugIssues","present","JKQ"
+"10212341000033114","28808711000001109","prednisolone 20mg tablets","prednisolone 20mg tablets","oral","prednisolone","20.000mg","0603020T0AAAXAX",NA,10000,"in both",1
+"10212641000033118","28799311000001104","pevanti 10mg tablets (advanz pharma)","pevanti 10mg tablets","oral","prednisolone","10.000mg","0603020T0BLACBK",NA,300,"in both",1
+"10212741000033110","28799611000001109","pevanti 20mg tablets (advanz pharma)","pevanti 20mg tablets","oral","prednisolone","20.000mg","0603020T0BLADAX",NA,200,"in both",1
+"1114241000033116","325442004","prednisolone 2.5mg gastro-resistant tablets","prednisolone 2.5mg gastro-resistant tablets","oral","prednisolone","2.500mg","0603020T0AAAFAF","1050000",3e+06,"in both",1
+"1114341000033114","325443009","prednisolone 5mg gastro-resistant tablets","prednisolone 5mg gastro-resistant tablets","oral","prednisolone","5.000mg","0603020T0AAAGAG","6030200",1e+07,"in both",1
+"1127341000033111","39722711000001103","prednisolone 5mg soluble tablets","prednisolone 5mg soluble tablets","oral","prednisolone sodium phosphate","5.000mg","0603020T0AABHBH","6030200",1e+06,"in both",1
+"1130741000033110","325450008","prednisolone 25mg tablets","prednisolone 25mg tablets","oral","prednisolone","25.000mg","0603020T0AAARAR","6030200",2e+05,"in both",1
+"1130841000033117",NA,"prednisolone steaglate tablets 6.65 mg",NA,NA,NA,NA,NA,NA,10,"in both",1
+"1131741000033117","325426006","prednisolone 1mg tablets","prednisolone 1mg tablets","oral","prednisolone","1.000mg","0603020T0AAAAAA","6030200",5e+06,"in both",1
+"1131841000033110","28808611000001100","prednisolone 2.5mg tablets","prednisolone 2.5mg tablets","oral","prednisolone","2.500mg","0603020T0AAABAB",NA,2e+05,"in both",1
+"1131941000033119","325427002","prednisolone 5mg tablets","prednisolone 5mg tablets","oral","prednisolone","5.000mg","0603020T0AAACAC","1050000",1e+07,"in both",1
+"1132041000033113",NA,"prednisone tablets 1 mg",NA,NA,NA,NA,NA,NA,4000,"in both",1
+"1132141000033112",NA,"prednisone tablets 5 mg",NA,NA,NA,NA,NA,NA,20000,"in both",1
+"11664841000033116","32781411000001102","prednisolone 30mg tablets","prednisolone 30mg tablets","oral","prednisolone","30.000mg","0603020T0AABNBN",NA,2000,"in both",1
+"2509341000033118",NA,"*prednisolone tablets",NA,NA,NA,NA,NA,NA,70,"in both",1
+"2509541000033113",NA,"*prednisolone liquid",NA,NA,NA,NA,NA,NA,2,"in both",1
+"2509741000033117",NA,"*prednisolone pills (sucrose)",NA,NA,NA,NA,NA,NA,20,"in both",1
+"431541000033114","459611000001100","deltacortril 2.5mg gastro-resistant tablets (phoenix labs ltd)","deltacortril 2.5mg gastro-resistant tablets","oral","prednisolone","2.500mg","0603020T0BCAAAF","10010201/ 8020200/ 3020000/ 13050000",80000,"in both",1
+"431641000033110","331111000001100","deltacortril 5mg gastro-resistant tablets (phoenix labs ltd)","deltacortril 5mg gastro-resistant tablets","oral","prednisolone","5.000mg","0603020T0BCABAG","10010201/ 8020200/ 3020000/ 13050000",2e+05,"in both",1
+"5990141000033115","17872811000001100","prednisone 1mg modified-release tablets","prednisone 1mg modified-release tablets","oral","prednisone","1.000mg","0603020X0AAAEAE","6030200",400,"in both",1
+"5990241000033110","17873211000001107","prednisone 2mg modified-release tablets","prednisone 2mg modified-release tablets","oral","prednisone","2.000mg","0603020X0AAAFAF","6030200",300,"in both",1
+"5990341000033117","17873811000001108","prednisone 5mg modified-release tablets","prednisone 5mg modified-release tablets","oral","prednisone","5.000mg","0603020X0AAAGAG","6030200",1000,"in both",1
+"8494441000033110","32652311000001103","dilacort 2.5mg gastro-resistant tablets (crescent pharma ltd)","dilacort 2.5mg gastro-resistant tablets","oral","prednisolone","2.500mg","0603020T0BNAAAF",NA,20,"in both",1
+"8494541000033111","32652511000001109","dilacort 5mg gastro-resistant tablets (crescent pharma ltd)","dilacort 5mg gastro-resistant tablets","oral","prednisolone","5.000mg","0603020T0BNABAG",NA,40,"in both",1
+"9119141000033118","416533002","prednisolone 15mg/5ml oral solution","prednisolone 15mg/5ml oral solution","oral","prednisolone","3.000mg/1.000ml","0603020T0AAAYAY",NA,100,"in both",1
+"5990641000033113","17872911000001105","lodotra 1mg modified-release tablets (napp pharmaceuticals ltd)","lodotra 1mg modified-release tablets","oral","prednisone","1.000mg","0603020X0BDAAAE","6030200",80,"in both",1
+"5990741000033116","17873311000001104","lodotra 2mg modified-release tablets (napp pharmaceuticals ltd)","lodotra 2mg modified-release tablets","oral","prednisone","2.000mg","0603020X0BDABAF","6030200",200,"in both",1
+"5990841000033114","17873911000001103","lodotra 5mg modified-release tablets (napp pharmaceuticals ltd)","lodotra 5mg modified-release tablets","oral","prednisone","5.000mg","0603020X0BDACAG","6030200",200,"in both",1
+"10212141000033111","28808411000001103","prednisolone 10mg tablets","prednisolone 10mg tablets","oral","prednisolone","10.000mg",NA,NA,20000,"new only",1
+"10212441000033115","28798211000001102","pevanti 2.5mg tablets (advanz pharma)","pevanti 2.5mg tablets","oral","prednisolone","2.500mg",NA,NA,200,"new only",1
+"10212541000033119","28799011000001102","pevanti 5mg tablets (advanz pharma)","pevanti 5mg tablets","oral","prednisolone","5.000mg",NA,NA,300,"new only",1
+"10212941000033113","28799811000001108","pevanti 25mg tablets (advanz pharma)","pevanti 25mg tablets","oral","prednisolone","25.000mg",NA,NA,200,"new only",1
+"10266841000033117","29424511000001109","prednisolone 5mg/5ml oral solution unit dose","prednisolone 5mg/5ml oral solution unit dose","oral","prednisolone","1.000mg/1.000ml",NA,NA,40000,"new only",1
+"10494341000033117","29904211000001102","prednisolone 10mg/ml oral solution sugar free","prednisolone 10mg/ml oral solution sugar free","oral","prednisolone","10.000mg/1.000ml",NA,NA,4000,"new only",1
+"10988941000033111",NA,"prednisolone dompe oral solution 5 mg/5 ml unit dose",NA,NA,NA,NA,NA,NA,30,"new only",1
+"11507841000033115","32611811000001105","prednisolone 1mg gastro-resistant tablets","prednisolone 1mg gastro-resistant tablets","oral","prednisolone","1.000mg",NA,NA,10000,"new only",1
+"13747341000033111","38961111000001107","prednisolone sodium phosphate 5mg suppositories (imported)","prednisolone sodium phosphate 5mg suppositories",NA,"prednisolone sodium phosphate","5.000mg",NA,NA,20,"new only",1
+"10212141000033112","28808411000001104","prednisolone 10mg tablets","prednisolone 10mg tablets","oral","prednisolone","10.000mg","0603020T0AABKBK",NA,NA,"old only",1
+"10212441000033116","28798211000001104","pevanti 2.5mg tablets (advanz pharma)","pevanti 2.5mg tablets","oral","prednisolone","2.500mg","0603020T0BLAAAB",NA,NA,"old only",1
+"10212541000033120","28799011000001104","pevanti 5mg tablets (advanz pharma)","pevanti 5mg tablets","oral","prednisolone","5.000mg","0603020T0BLABAC",NA,NA,"old only",1
+"10212941000033112","28799811000001108","pevanti 25mg tablets (advanz pharma)","pevanti 25mg tablets","oral","prednisolone","25.000mg","0603020T0BLAEAR",NA,NA,"old only",1
+"10266841000033116","29424511000001108","prednisolone 5mg/5ml oral solution unit dose","prednisolone 5mg/5ml oral solution unit dose","oral","prednisolone","1.000mg/1.000ml","0603020T0AABLBL",NA,NA,"old only",1
+"10494341000033116","29904211000001104","prednisolone 10mg/ml oral solution sugar free","prednisolone 10mg/ml oral solution sugar free","oral","prednisolone","10.000mg/1.000ml","0603020T0AABMBM",NA,NA,"old only",1
+"11507841000033116","32611811000001104","prednisolone 1mg gastro-resistant tablets","prednisolone 1mg gastro-resistant tablets","oral","prednisolone","1.000mg","0603020T0AAATAT",NA,NA,"old only",1
+"2509441000033112",NA,"*prednisolone granules",NA,NA,NA,NA,NA,NA,NA,"old only",1
+"2509641000033114",NA,"*prednisolone powder",NA,NA,NA,NA,NA,NA,NA,"old only",1
+"429141000033119",NA,"decortisyl tablets 5 mg",NA,NA,NA,NA,NA,NA,NA,"old only",1
+"429441000033110",NA,"deltastab tablets 1 mg",NA,NA,NA,NA,NA,NA,NA,"old only",1
+"429541000033111",NA,"deltastab tablets 5 mg",NA,NA,NA,NA,NA,NA,NA,"old only",1
